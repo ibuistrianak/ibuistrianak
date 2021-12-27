@@ -1,0 +1,78 @@
+{
+"redirect" : {
+
+"HOMEURL" : "file:///android_asset/music/playlist.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Ayo Ayo...",
+
+
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
+
+"INTER_COUNT" : 3,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : true,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : true,
+"Enable_Sticky_Notification" : true,
+
+
+"STARAPPID" : "210525828",
+
+"ADMOB_BANNER" : "ca-app-pub-2115024050829708/8229789751",
+"ADMOB_INTER" : "ca-app-pub-2115024050829708/4976940453",
+"ADMOB_NATIV" : "",
+
+"hpk_alien" : "",
+"HPK_ADMOB1" : "",
+"HPK_ADMOB2" : "",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : "",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "dfret",
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
+"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+
+"Button_Start" : "MAINKAN LAGU",
+"Button_Share" : "BAGIKAN",
+"Button_Rating" : "RATING SEKARANG,
+
+
+"Exit_Popup_Dialog" : "Selalu dukung kami selalu memberikan yang terbaik untuk kalian semua dan kami akan selalu memberikan tambahan lagu nazia marwiana terbaik \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Rate_Button" : "Rate 5 Stars",
+"Later_Button" : "Rate Later",
+"enable_Share_button" : true,
+"Share_TXT" : "Dangdut jawa koplo terbaru",
+"More_Button" : "Share",
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
+}
