@@ -1,0 +1,231 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwert12345",
+		"backup_ads_intertitial": "qwert12345",
+		"interval_intertitial": 4,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "RHEKA RESTU",
+			"image": "file:///android_asset/image/RR.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "POP MELAYU",
+			"image": "file:///android_asset/image/RM.jpg"
+		}
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "RHEKA RESTU",
+			"title": "CINTA UNTUKMU SAYANG",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/9RRCINTAUNTUKMUSAYANGLAY.mp3",
+			"duration": "265",
+			"lyrics": "Ku tahan cinta yang datang<br />Untukmu sayang<<br />Untukmu kasih<br /><br />Biarpun jarak membatasi<br />Takkan mampu merubah diri<br />Percaya ku takkan kecewa<br />Kerana cinta kita indah<br /><br />Bertaruh nyawa ku mau<br />Hanya untukmu<br />Lelah dalam menunggu<br />Aku tiada ragu<br /><br />Setiap detik slalu ku memikirkanmu<br />Aku melangkah kau pun selalu ada<br />Terkadang rindu sampai buatku rapuh<br />Ingin selalu di sampingmu<br /><br />Akan ku nanti meski lama kau di sana<br />Kesabaranku tak ada batasnya<br />Jika tlah tiba saat kita bersama<br />Bawalah aku ke mana kau melangkah<br /><br />Bertaruh nyawa ku mau<br />Hanya untukmu<br />Lelah dalam menunggu<br />Aku tiada ragu<br /><br />Setiap detik slalu ku memikirkanmu<br />Aku melangkah kau pun selalu ada<br />Terkadang rindu sampai buatku rapuh<br />Ingin selalu di sampingmu<br /><br />Akan ku nanti meski lama kau di sana<br />Kesabaranku tak ada batasnya<br />Jika tlah tiba saat kita bersama<br />Bawalah aku ke mana kau melangkah"
+		},
+		{
+			"id": 2,
+			"name_category": "RHEKA RESTU",
+			"title": "AKU BUKAN MUSUHMU",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/8RRAKUBUKANMUSUHMULAY.mp3",
+			"duration": "388",
+			"lyrics": "Sayangku terima dirimu <br>Dengan apa ada nya kamu <br>Tak pernah ku mengeluh <br>Sedikit lun tentang kamu <br> <br>Semua nya ku terima <br>Sbgai tanda engkau ku cinta.. <br> <br>Sayang ku tetapi dirimu, <br>Tak pernah hargai ku <br>Padahal aku kekasih mu <br>Kau anggp sebagai musuh <br /><br>Yang ku ingin kan cinta <br>Tapi engkau balas kecewa <br> <br>Reff <br>Aku ada untuk mu Oh kekasih <br>Bukan tuk kau sakiti <br>Namum untuk kau jaga dan cintai, <br>hingga ragaku tak bernyawa lagi <br> <br>Aku yang selalu bisa mengalah <br>Bukan ku tak terluka <br>Namun rasa cinta yang aku punya <br>Lebih besar dari sakit yang ku rasa <br> <br>Satu pintaku cintailah aku.. <br>Satu pintaku cintailah aku.. <br>Sayang ku tetapi dirimu, <br>Tak pernah hargai ku <br>Padahal aku kekasih mu <br>Kau anggp sebagai musuh <br /><br>Yang ku ingin kan cinta <br>Tapi engkau balas kecewa <br> <br>Reff <br>Aku ada untuk mu Oh kekasih <br>Bukan tuk kau sakiti <br>Namum untuk kau jaga dan cintai, <br>hingga ragaku tak bernyawa lagi <br> <br>Aku yang selalu bisa mengalah <br>Bukan ku tak terluka <br>Namun rasa cinta yang aku punya <br>Lebih besar dari sakit yang ku rasa <br> <br>Satu pintaku cintailah aku.. <br>Satu pintaku cintailah aku.. <br>"
+		},
+		{
+			"id": 3,
+			"name_category": "RHEKA RESTU",
+			"title": "SEBATAS TEMAN",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/7RRSEBATASMANTANLAY.mp3",
+			"duration": "422",
+			"lyrics": "Bagaimanakah caranya<br>Kubisa tuk menerima<br>Dirimu untuk kembali<br>Seperti dulu lagi<br><br>Setelah dirimu tega<br>Membuat aku kecewa<br>Terluka terhina<br>begitu parah nya<br><br>Bunga mata berseri<br>Lain ditinggal pergi<br>Dimana kah cintamu<br>yang kusanjungi<br><br>Bagai sepah terbuang<br>Dianggap tiada arti<br>Begitu mudah nya aku kau campakan<br><br>Cita kita tinggal lah kenangan<br>Walaupun masih ada<br>Hanya seberkas luka<br>Dirimu kini hanya sebatas mantan<br>Yang tak punya hati tega mengungkapi<br><br>Cukup cukup sudah jangan berharap lagi<br>Cintaku tak mungkin untuk kembali<br>Cukup cukup sudah jangan berharap lagi<br>Cintaku tak mungkin untuk kembali<br><br>Setelah dirimu tega<br>Membuat aku kecewa<br>Terluka terhina<br>begitu parah nya<br><br>Bunga mata berseri<br>Lain ditinggal pergi<br>Dimana kah cintamu<br>yang kusanjungi<br><br>Bagai sepah terbuang<br>Dianggap tiada arti<br>Begitu mudah nya aku kau campakan<br><br>Cita kita tinggal lah kenangan<br>Walaupun masih ada<br>Hanya seberkas luka<br>Dirimu kini hanya sebatas mantan<br>Yang tak punya hati tega mengungkapi<br><br>Cukup cukup sudah jangan berharap lagi<br>Cintaku tak mungkin untuk kembali<br>Cukup cukup sudah jangan berharap lagi<br>Cintaku tak mungkin untuk kembali"
+		},
+		{
+			"id": 4,
+			"name_category": "RHEKA RESTU",
+			"title": "RESIKO BERCINTA",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/6RRRESIKOBERCINTALAY.mp3",
+			"duration": "271",
+			"lyrics": "Sudah.. aku kecewa<br />Luka berulang kali<br />Aku orang biasa<br />Biasa selalu kau hina<br /><br />Mengapa engkau tak mengerti<br />Perasaanku kekasih<br />Aku yang selalu setia di satu cinta<br /><br />Berpura-pura kau menyinta<br />Seolah tiada dusta<br />Luka yang engkau goreskan tiada obatnya<br /><br />Kalaulah luka yang ingin kau beri<br />Untuk apa kau datang kembali<br />Menawarkan janji yang pastinya nanti<br />Tak kan mungkin engkau tepati<br /><br />Pergi pun sulit bertahan sakit<br />Itupun sudah aku lalui<br />Semua itu aku tahankan<br />Untuk kita agar tetap bersama<br /><br />Baru kini aku menyadari inilah resiko bercinta<br /><br />Mengapa engkau tak mengerti<br />Perasaanku kekasih<br />Aku yang selalu setia di satu cinta<br /><br />Berpura-pura kau menyinta<br />Seolah tiada dusta<br />Luka yang engkau goreskan tiada obatnya<br /><br />Kalaulah luka yang ingin kau beri<br />Untuk apa kau datang kembali<br />Menawarkan janji yang pastinya nanti<br />Tak kan mungkin engkau tepat<br /><br />Pergi pun sulit bertahan sakit<br />Itupun sudah aku lalui<br />Semua itu aku tahankan<br />Untuk kita agar tetap bersama<br /><br />Baru kini aku menyadari inilah resiko bercinta"
+		},
+		{
+			"id": 5,
+			"name_category": "RHEKA RESTU",
+			"title": "AKU HANYA ORANG BIASA",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/5RRAKUHANYAORANGBIASALAY.mp3",
+			"duration": "336",
+			"lyrics": "Siapa orang yang selalu ada<br>Saat kecewa kau dicela dan dihina<br>Siapa orang yang selalu ada<br>Saat mereka mencoba memisahkan kita<br><br>Itu lah aku selalu ada untukmu<br>Tapi mengapa kau tak menghargaiku<br><br>Baru ku sadari cintaku tak berarti<br>Hanya kerana aku orang tak punya<br><br>Aku hanya orang biasa<br>Yang ku punya segenggam setia<br>Aku hanya punya cinta<br>Jauh dari kata sempurna<br><br>Jika engkau memaksakannya<br>Biar semua ku relakannya<br>Kucoba melupakanmu <br>Walupun aku tiada mampu<br><br>Kucoba melupakanmu <br>Walupun aku tiada mampu<br><br>Siapa orang yang selalu ada<br>Saat mereka mencoba memisahkan kita<br><br>Itu lah aku selalu ada untukmu<br>Tapi mengapa kau tak menghargaiku<br><br>Baru ku sadari cintaku tak berarti<br>Hanya kerana aku orang tak punya<br><br>Aku hanya orang biasa<br>Yang ku punya segenggam setia<br>Aku hanya punya cinta<br>Jauh dari kata sempurna<br><br>Jika engkau memaksakannya<br>Biar semua ku relakannya<br>Kucoba melupakanmu <br>Walupun aku tiada mampu<br><br>Kucoba melupakanmu <br>Walupun aku tiada mampu"
+		},
+		{
+			"id": 6,
+			"name_category": "RHEKA RESTU",
+			"title": "REMBULAN MALAM",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/4RRREMBULANMALAMLAY.mp3",
+			"duration": "265",
+			"lyrics": "Rembulan malam berbalut sepi<br />Suasana dingin merayu hati<br />Cahya di bulan ikut menghiasi<br />Nuansa misteri menyelimuti<br /><br />Hilang pandangan didalam mata<br />Bayangan menepi di angkasa<br />Entah berapa lama kau di sana<br />Sehinga diriku ingin bersua<br /><br />Korban kan diri dalam ilusi<br />Hilang kan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu<br /><br />Pada malam kutitip kan salam<br />Untuk dirimu yang aku sayang<br />Semoga cinta kita kan abadi<br />Sampai matiku akan menanti"
+		},
+		{
+			"id": 7,
+			"name_category": "RHEKA RESTU",
+			"title": "RELAKU MENGALAH",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/3RRRELAKLUMENGALAHLAY.mp3",
+			"duration": "325",
+			"lyrics": "Jika dirimu bertanya cinta <br />Aku pasti punya..<br />Jika kau butuh kan harta <br />Aku bisa apa...<br /><br />Jika kau harap kasih yang setia<br />Aku lah orang nya..<br />Jika kau ingin kan tahta<br />Aku bisa apa...<br /><br />Sekuat kuat nya diriku sayang<br />Sebisa bisa nya aku berjuang<br />Jika bandingan mu<br />Dia yang ber uang<br />Ku akui cinta ku tak kan menang<br /><br />Ku hanya bisa janji kan yang indah<br />Dia datang membawa segala nya<br />Sebesar apa pun cinta yang ku punya<br />Kau kan tetap memilih dia<br /><br />Aku bisa apa<br />Aku bisa apa.."
+		},
+		{
+			"id": 8,
+			"name_category": "RHEKA RESTU",
+			"title": "TAK SEDALAM INI",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/2RRTAKSEDALAMINILAY.mp3",
+			"duration": "344",
+			"lyrics": "Jangan kau obati luka ini<br />Biarkan mengalir darah tak henti<br />Kutau kau hanya membuat luka<br />Kusemakin perih<br /><br />Kini kau datang<br />esok kau pergi<br />Seakan<br />Engkautak punya hati<br /><br />Terlau aku mencintaimu<br />Rupanya kesempatan bagimu<br />Maafku untukmu<br />Berulangkali tapi tiada arti<br /><br />Kini denganku<br />Esok dengannya<br />Akutak sanggup lagi<br /><br />Sakitnya perihnya<br />Melihat kau bercumbu dengannya<br />Kau tega menyiksa<br />Aku yang selalu setia<br /><br />Andai rasa di hati<br />Tak sedalam ini<br />Dari dahulu<br />Engkau tlah kutinggal kan<br /><br />Cinta yang kumiliki<br />Tak bisa kau bandingkan<br />Rugilah ungkau<br />Kerna memilih dia"
+		},
+		{
+			"id": 9,
+			"name_category": "RHEKA RESTU",
+			"title": "BUIH JADI PERMADANI",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/1RRBUIHJADIPERMADANILAY.mp3",
+			"duration": "314",
+			"lyrics": "<p>Dingin nya angingin malam ini<br>Menyapa tub uhku<br>Namun tidak dapat<br>Dinginkan panas hatiku ini<br> <br><p>Rasa terhempasnya<br>diriku ini krna sikapmu<br>Apakah karna aku<br>insan kekurangan<br>Mudahnya kau mainkan<br> <br><p>Oh mungkinkah diri ini<br>Dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta yang kau ucap<br>Dalam janji cinta<br> <br><p>Juga mustahil bagiku<br>Menggapai bintang dilangit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu sungguh aku<br>Tiada mampu<br> <br><p>Salah aku juga<br>Karna jatuh cinta<br>Insan sepertimu<br>Seanggun bidadari<br> <br><p>Seharusnya aku<br>Cerminkan diriku<br>Sebelum tirai hati<br>Aku bukan untuk mencintaimu<br>"
+		},
+		{
+			"id": 10,
+			"name_category": "RHEKA RESTU",
+			"title": "SUDAHI RASA INI",
+			"image": "file:///android_asset/image/RR.jpg",
+			"link_mp3": "mp3/10RRSUDAHIRASAINILAY.mp3",
+			"duration": "329",
+			"lyrics": "Sudah cukup sudah rasanya diriku<br>Mengalah karena egomu<br>Lelah ku telah lelah hadapi semua<br>Kau yang tak pernah berubah<br><br>Maumu jadi mauku<<br>Sedangkan kau tak pernah tau<br><br>Sudah berulang kali ku bilang padamu sayang<<br>Ada kata bertanya meski terlihat bahagia<br><br>Kini ku akhiri denganmu kekasih<<br>Kini ku akhiri denganmu kekasih<br>Sungguh ku tak tahan lagi<br><br>Sudah cukup sudah rasanya diriku<br>Mengalah karena egomu<br>Lelah ku telah lelah hadapi semua<br>Kau yang tak pernah berubah<br><br>Maumu jadi mauku<<br>Sedangkan kau tak pernah tau<br>Sakitnya aku karenamu<br><br>Sudah berulang kali ku bilang padamu sayang<br>Namunnya kau tak pernah mengerti<br>Ada kata bertanya meski terlihat bahagia<br>Bukan berarti ku tak terluka<br><br>Kini ku akhiri denganmu kekasih<<br>Kini ku akhiri denganmu kekasih<br>Sungguh ku tak tahan lagi"
+		},
+		{
+			"id": 11,
+			"name_category": "POP MELAYU",
+			"title": "ASMARA YANG KANDAS",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBASMARAYANGKANDASLAY.mp3",
+			"duration": "267",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "POP MELAYU",
+			"title": "BAGAI ORANG TERBUANG",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBBAGAIORANGTERBUANGLAY.mp3",
+			"duration": "376",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "POP MELAYU",
+			"title": "BENCI KU SANGKA SAYANG",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBBENCIKUSANGKASAYANGLAY.mp3",
+			"duration": "301",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "POP MELAYU",
+			"title": "BUIH JADI PERMADANI",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBBUIHJADIPERMADANILAY.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "POP MELAYU",
+			"title": "EMAS HANTARAN",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBEMASHANTARANLAY.mp3",
+			"duration": "272",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "POP MELAYU",
+			"title": "GERHANA DALAM CINTA",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBGERHANADALAMCINTALAY.mp3",
+			"duration": "375",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "POP MELAYU",
+			"title": "HARUSKAH AKU MATI",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBHARUSKAHAKUMATLAY.mp3",
+			"duration": "251",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "POP MELAYU",
+			"title": "LUKA SEKARAT RASA",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBLUKASEKARATRASALAY.mp3",
+			"duration": "308",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "POP MELAYU",
+			"title": "RELA KAU TINGGALKAN",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBRELAKAUTINGGALKANLAY.mp3",
+			"duration": "278",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "POP MELAYU",
+			"title": "REMBULAN MALAM",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBREMBULANMALAMLAY.mp3",
+			"duration": "269",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "POP MELAYU",
+			"title": "SAMA JAHATNYA",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBSAMAJAHATNYALAY.mp3",
+			"duration": "366",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "POP MELAYU",
+			"title": "SEMPURNA DENGANMU",
+			"image": "file:///android_asset/image/RM.jpg",
+			"link_mp3": "mp3/RRBSEMPURNADENGANMULAY.mp3",
+			"duration": "325",
+			"lyrics": ""
+		}
+
+	]
+}
