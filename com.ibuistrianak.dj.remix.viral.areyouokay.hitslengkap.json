@@ -1,0 +1,258 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 4,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "NEW VIRAL",
+    "image": "file:///android_asset/image/NW.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "HITS",
+      "image": "file:///android_asset/image/NH.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "NEW VIRAL",
+    "title": "DJ MONEY LISA",
+    "image": "file:///android_asset/image/NW.jpg",
+    "link_mp3": "mp3/9VRDJMONEYLISA.mp3",
+    "duration": "332",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "NEW VIRAL",
+      "title": "DJ DIAMOND IN THE SKY",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/8VRDJDIAMONDINTHESKY.mp3",
+      "duration": "246",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "NEW VIRAL",
+      "title": "DJ POTA POTA",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/7VRDJPOTAPOTA.mp3",
+      "duration": "292",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "NEW VIRAL",
+      "title": "DJ PAK PONG VONG",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/6VRDJPAKPONGVONG.mp3",
+      "duration": "182",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "NEW VIRAL",
+      "title": "DJ ARE YOU OKAY",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/5VRDJOREYOUOKAY.mp3",
+      "duration": "270",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "NEW VIRAL",
+      "title": "MINANG DANG LAK AKI NANG SUANG",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/4VRMINANGDANGLAKAKINANGSUANG.mp3",
+      "duration": "152",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "NEW VIRAL",
+      "title": "APRITE X GUYGEEGEE",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/3VRAPRITEXGUYGEEGEE.mp3",
+      "duration": "189",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "NEW VIRAL",
+      "title": "OKAY ARE YOU READY KOPLO",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/2VROKAYAREYOUREADYPLO.mp3",
+      "duration": "236",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "NEW VIRAL",
+      "title": "OKAY ARE YOU READY",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/1VROKAYAREYOUREADY.mp3",
+      "duration": "272",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "NEW VIRAL",
+      "title": "DJ ANGIN DATANG KASIH KABAR",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/10VRDJANGINDATANGKASIHKABAR.mp3",
+      "duration": "243",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "NEW VIRAL",
+      "title": "DJ BONBON REMIX",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/11VRDJBONBONREMIX.mp3",
+      "duration": "271",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "NEW VIRAL",
+      "title": "DJ CLOUND BREAD",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/12VRDJCLOUNDBREAD.mp3",
+      "duration": "225",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "NEW VIRAL",
+      "title": "DJ HUJAN BADAI ANGIN RIBUT",
+      "image": "file:///android_asset/image/NW.jpg",
+      "link_mp3": "mp3/13VRDJHUJANBADAIANGINRIBUT.mp3",
+      "duration": "238",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "HITS",
+      "title": "DJ BOOMA BOOMAYE",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/14VRDJBOOMABOOMAYE.mp3",
+      "duration": "285",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "HITS",
+      "title": "DJ DINDA JANGAN MARAH MARAH",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDINDAJANGANMARAHMARAH.mp3",
+      "duration": "362",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "HITS",
+      "title": "DJ AKU TITIPKAN DIA AKUBUKAN JODOHNYA",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJAKUTITIPKANDIAAKUBUKANJODOHNYA.mp3",
+      "duration": "342",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "HITS",
+      "title": "DJ ANTARA KAU DIA DAN AKU",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJANTARAKAUDIADANAKU.mp3",
+      "duration": "372",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "HITS",
+      "title": "DJ BETA JANJI BETA JAGA",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJBETAJANJIBETAJAGA.mp3",
+      "duration": "306",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "HITS",
+      "title": "DJ DASH UCIHA PLIS KUTAK SUKAP REMAN",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJDASHUCIHAPLISKUTAKSUKAPREMAN.mp3",
+      "duration": "339",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "HITS",
+      "title": "DJ KAKA KAMU PUNYA PACAR LAGI",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJKAKAKAMUPUNYAPACARLAGI.mp3",
+      "duration": "249",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "HITS",
+      "title": "DJ KU RINDU GAYAMU KETIKA BERMANJA",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJKURINDUGAYAMUKETIKABERMANJA.mp3",
+      "duration": "256",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "HITS",
+      "title": "DJ MACARENA",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJMACARENA.mp3",
+      "duration": "325",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "HITS",
+      "title": "DJ TAK BOSAN BOSAN AKU MEMANDANGMU",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJTAKBOSANBOSANAKUMEMANDANGMU.mp3",
+      "duration": "371",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "HITS",
+      "title": "DJ UDARA MANA KINI YANG KAU HIRUP",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRDJUDARAMANAKINIYANGKAUHIRUP.mp3",
+      "duration": "226",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "HITS",
+      "title": "DJ JIKA TERINGAT TENTANG DIKAU",
+      "image": "file:///android_asset/image/NH.jpg",
+      "link_mp3": "mp3/VRJIKATERINGATTENTANGDIKAU.mp3",
+      "duration": "316",
+      "lyrics": ""
+    }
+
+  ]
+}
