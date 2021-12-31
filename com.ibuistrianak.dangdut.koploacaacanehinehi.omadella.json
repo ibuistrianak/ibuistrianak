@@ -1,0 +1,259 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 4,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "ADELLA TERBARU",
+    "image": "file:///android_asset/image/DELTER.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "KOPLO",
+      "image": "file:///android_asset/image/DELPLO.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "ADELLA TERBARU",
+    "title": "EMAS HANTARAN",
+    "image": "file:///android_asset/image/DELTER.jpg",
+    "link_mp3": "mp3/9CHEMASHANTARANLA.mp3",
+    "duration": "413",
+    "lyrics": "Berakhir sudah impian cinta<br>Tinggalah puing-puingnya<br>Mimpi yang indah tak jadi nyata<br>Terkikis ombak menerpa<br><br>Aku yang dulu engkau sayangi<br>Mengapa kau tinggal pergi<br>Oh dimanakah janji yang suci<br>Yang katamu tak berbagi<br><br>Ku ingin kau mengerti<br>Apa yang ku alami<br>Takdir diriku<br>Harus melangkah jauh darimu<br><br>Andaikan aku boleh bertanya<br>Apakah ada salah diriku<br>Agar ku jauh<br>Dari prasangka rasa cemburu<br><br>Tiada salah dirimu kasih<br>Salah pada nasibku sendiri<br>Karna tak punya<br>Emas permata hantaran cinta<br><br>Aku yang dulu engkau sayangi<br>Mengapa kau tinggal pergi<br>Oh dimanakah janji yang suci<br>Yang katamu tak berbagi<br><br>Ku ingin kau mengerti<br>Apa yang ku alami<br>Takdir diriku<br>Harus melangkah jauh darimu<br><br>Andaikan aku boleh bertanya<br>Apakah ada salah diriku<br>Agar ku jauh<br>Dari prasangka rasa cemburu<br><br>Tiada salah dirimu kasih<br>Salah pada nasibku sendiri<br>Karna tak punya<br>Emas permata hantaran cinta<br><br>Aku yang dulu engkau sayangi<br>Mengapa kau tinggal pergi<br>Oh dimanakah janji yang suci<br>Yang katamu tak berbagi<br><br>Ku ingin kau mengerti<br>Apa yang ku alami<br>Takdir diriku<br>Harus melangkah jauh darimu<br><br>Andaikan aku boleh bertanya<br>Apakah ada salah diriku<br>Agar ku jauh<br>Dari prasangka rasa cemburu<br><br>Tiada salah dirimu kasih<br>Salah pada nasibku sendiri<br>Karna tak punya<br>Emas permata hantaran cinta<br><br>Andaikan aku boleh bertanya<br>Apakah ada salah diriku<br>Agar ku jauh<br>Dari prasangka rasa cemburu<br><br>Tiada salah dirimu kasih<br>Salah pada nasibku sendiri<br>Karna tak punya<br>Emas permata hantaran cinta<br>"
+  },
+    {
+      "id": 2,
+      "name_category": "ADELLA TERBARU",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/8CHDURIDURILA.mp3",
+      "duration": "334",
+      "lyrics": "<p>Sekarang Ku Tau Dirimu Telah Bersamanya</br>Walau Sakit Hati Yang ku Rasa</br>Akan Ku Jalani Dengan Sendirinya</br><p>Ku Terus Berjuang.. Walau Tampamu sayang..</br>Mimpi - Mimpi Yang Telah Ku ciptakan</br>Kini Hanya Tinggal Kenangan...</br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br><p>Sekarang Ku Tau Dirimu Telah Bersamanya</br>Walau Sakit Hati Yang ku Rasa</br>Akan Ku Jalani Dengan Sendirinya</br><p>Ku Terus Berjuang.. Walau Tampamu sayang..</br>Mimpi - Mimpi Yang Telah Ku ciptakan</br>Kini Hanya Tinggal Kenangan...</br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br><p>Sekarang Ku Tau Dirimu Telah Bersamanya</br>Walau Sakit Hati Yang ku Rasa</br>Akan Ku Jalani Dengan Sendirinya</br><p>Ku Terus Berjuang.. Walau Tampamu sayang..</br>Mimpi - Mimpi Yang Telah Ku ciptakan</br>Kini Hanya Tinggal Kenangan...</br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br>Jagalah Dia Buat Lah Dia Bahagia... </br>"
+    },
+    {
+      "id": 3,
+      "name_category": "ADELLA TERBARU",
+      "title": "BILA NANTI",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/7CHBILANANTILA.mp3",
+      "duration": "288",
+      "lyrics": "Bila memang engkau tak lagi cinta<br>Lebih baik engkau katakan saja<br>Ku relakan bila kau ingin pergi<br>Meninggalkan luka di dalam hati<br><br>Cukup sudah kau lukai hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Namun hati takkan kembali<br>Seperti dulu lagi<br><br>Cukup sudah kau lukai hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Namun hati takkan kembali<br>Seperti dulu lagi<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Seperti dulu lagi<br><br>Namun hati takkan kembali<br>Seperti dulu lagi<br>"
+    },
+    {
+      "id": 4,
+      "name_category": "ADELLA TERBARU",
+      "title": "AKU BUKAN JODOHNYA",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/6CHAKUBKANJDOHNYALA.mp3",
+      "duration": "391",
+      "lyrics": "<br>aku titipkan dia<br>lanjutkan perjuanganku tuk nya<br>bahagiakan dia, kau sayangi dia<br>seperti ku menyayanginya<br><br>kan ku ikhlaskan dia<br>tak pantas ku bersanding dengannya<br>kan ku terima dengan lapang dada<br>aku bukan jodohnya<br><br>ini salahku<br>terlalu memikirkan egoku<br>tak mampu buatmu bersanding nyaman denganku<br>hingga kau pergi tinggalkan aku<br><br>terlambat sudah<br>kini kau telah menemukan dia<br>seseorang yang mampu membuatmu bahagia<br>ku ikhlas kau bersanding dengannya<br><br>aku titipkan dia<br>lanjutkan perjuanganku tuk nya<br>bahagiakan dia, kau sayangi dia<br>seperti ku menyayanginya<br><br>kan ku ikhlaskan dia<br>tak pantas ku bersanding dengannya<br>kan ku terima dengan lapang dada<br>aku bukan jodohnya<br><br>terlambat sudah<br>kini kau telah menemukan dia<br>seseorang yang mampu membuatmu bahagia<br>ku ikhlas kau bersanding dengannya<br><br>aku titipkan dia, lanjutkan perjuanganku tuk nya<br>bahagiakan dia, kau sayangi dia, seperti ku menyayanginya<br>kan ku ikhlaskan dia, tak pantas ku bersanding dengannya<br>kan ku terima dengan lapang dada, aku bukan jodohnya<br><br>aku titipkan dia, lanjutkan perjuanganku tuk nya<br>bahagiakan dia, kau sayangi dia, seperti ku menyayanginya<br>kan ku ikhlaskan dia, tak pantas ku bersanding dengannya<br>kan ku terima dengan lapang dada, aku bukan jodohnya<br>kan ku terima dengan lapang dada, aku bukan jodohnya haa bukan jodohnya"
+    },
+    {
+      "id": 5,
+      "name_category": "ADELLA TERBARU",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/5CHBIDADARICINTALA.mp3",
+      "duration": "289",
+      "lyrics": "<br>Bersyukur kepada Allah<br>'Ku telah dipertemukan<br>Kekasih baik hati sepertimu<br><br>Apa pun adanya engkau<br>Kurela dan menerima<br>Segenap jiwa ragaku untukmu<br><br>Sampai ajal menjemputku<br>'Ku selalu mencintamu<br>Menyayangmu<br>Engkau tulang rusukku<br><br>Hingga di syurga-Nya Allah<br>Kuingin bersamamu<br>Dan menjadi bidadari cintamu<br><br>Apa pun adanya engkau<<br>Segenap jiwa ragaku untukmu<br><br>Sampai ajal menjemputku<br>'Ku selalu mencintamu<br>Menyayangmu<br>Engkau tulang rusukku<br><br>Hingga di syurga-Nya Allah<br>Kuingin bersamamu<br>Dan menjadi bidadari cintamu<br><br>Apa pun adanya engkau<<br>Segenap jiwa ragaku untukmu<br><br>Sampai ajal menjemputku<br>'Ku selalu mencintamu<br>Menyayangmu<br>Engkau tulang rusukku<br><br>Hingga di syurga-Nya Allah<br>Kuingin bersamamu<<br>Dan menjadi bidadari cintaku<br>Dan menjadi bidadari cintamu<br><br>Sampai ajal menjemputku<br>'Ku selalu mencintamu<br>Menyayangmu<br>Engkau tulang rusukku<br><br>Hingga di syurga-Nya Allah<br>Kuingin bersamamu<<br>Dan menjadi bidadari cintaku<br>Dan menjadi bidadari cintamu<br>Dan menjadi bidadari cintamu<br>Dan menjadi bidadari cintamu"
+    },
+    {
+      "id": 6,
+      "name_category": "ADELLA TERBARU",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/4CHBUIHJADIPERMADANILA.mp3",
+      "duration": "406",
+      "lyrics": "<br>Dinginnya angin malam ini<br>Menyapa tubuhku<br>Namun tidak dapat dinginkan panasnya<br>Hatiku ini<br>Terasa terhempasnya kelakianku ini<br>Dengan sikapmu<br>Apakah karna aku<br>Insan kekurangan<br>Mudahnya kau mainkan<br><br>Oh mungkinkah diri ini<br>dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta yang kau ucap<br>Dalam janji cinta<br>Juga mustahil bagiku<br>Menggapai bintang di langit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku tiada mampu<br><br>Salah aku juga karna jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu<br><br>Oh mungkinkah diri ini<br>dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta yang kau ucap<br>Dalam janji cinta<br>Juga mustahil bagiku<br>Menggapai bintang di langit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku tiada mampu<br><br>Salah aku juga karna jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu<br><br>Oh mungkinkah diri ini<br>dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta yang kau ucap<br>Dalam janji cinta<br>Juga mustahil bagiku<br>Menggapai bintang di langit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku tiada mampu<br><br>Salah aku juga karna jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu"
+    },
+    {
+      "id": 7,
+      "name_category": "ADELLA TERBARU",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/3CHTOPTOPANLA.mp3",
+      "duration": "321",
+      "lyrics": "<br>wes tak cobo ngampet loro<br>wes tak cobo jogo tresno<br>loro sing tok jalari ora tak rasakke<br>najan aku ngerti koe karo liyane<br><br>cobo koe ono ning posisiku<br>opo koe iso kuat atimu<br>ngrasakke tok larani<br>ning sak bendinoku<br>koe ra ngroso kok malah suloyo<br><br>kulo pun angkat tangan<br>atine pun ajur ajuran<br><br>kulo tak milih pamit<br>ati kulo pun roso sakit<br>ngapurane sayang<br>aku udu wong top topan<br>ora koyo idamanmu<br>sing gampang nrobos atimu<br>aku janne ngerti koe ghosting ati<br>tak cobo goblok tetap mencintai<br>sepenuh hati<br><br>kulo pun angkat tangan<br>atine pun ajur ajuran<br>kulo tak milih pamit<br>ati kulo pun roso sakit<br><br>ngapurane sayang<br>aku udu wong top topan<br>ora koyo idamanmu<br>sing gampang nrobos atimu<br>aku janne ngerti koe ghosting ati<br>tak cobo goblok tetap mencintai<br>sepenuh hati<br><br>ngapurane sayang<br>aku udu wong top topan<br>ora koyo idamanmu<br>sing gampang nrobos atimu<br>aku janne ngerti koe ghosting ati<br>tak cobo goblok tetap mencintai<br><br>sepenuh hati<br><br>tak cobo goblok tetap mencintai<br>sepenuh hati "
+    },
+    {
+      "id": 8,
+      "name_category": "ADELLA TERBARU",
+      "title": "CIDRO 3",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/2CHCIDRO3LA.mp3",
+      "duration": "385",
+      "lyrics": "<br>Ora Perpisahan Sing Dadi Getuning Atii...<br>Nanging Nyapo Mbiyen Kowe Tak Senengi...<br>Nyenengi Sliramu Gawe Loro Atiku<br>Getune Nyapo Mbiyen Ketemu .<br><br>Jare Kowe Wes Ngukir Jenengku.<br>Mbok Patri Ning Njero Atimu...<<br>Tresnomu Mung Siji Yo Aku...<br>Ningopo Saikine Cidro...<br>Kabeh Omongmu Kuwi Gombal Mukiyo...<br><br>Sopo Wonge Sing Ra Bakal Tatu...<br>Nyenengi Wong Koyo Sliramu...<br>Ngomong Cinta Sayang Mung Ning Aku...<br>Janji Setiyo Sak Umur Uripmu...<br>Ningopo Sak Ikine Tego...<br>Ning Ngarep Moto Kowe...<br>Nggandeng Wong Liyo<br><br>Ho...ho. .........Keiris Atiku<br><br>Ancen Rogo Iki Ora Nggetih Senajan Tatu...<br>Mergo Roso Perihe ...Ning Njero Dodoku...<br>Gulone Manis ...Isih Manis Madu...<br>Mergane Sing Mbok Iris Atiku...<br><br>Ora Perpisahan Sing Dadi Getuning Atii...<br>Nanging Nyapo Mbiyen Kowe Tak Senengi ...<br>Nyenengi Sliramu Gawe Loro Atiku...<br>Getune Nyapo Mbiyen Ketemu. <br><br>Sopo Wonge Sing Ra Bakal Tatu...<br>Nyenengi Wong Koyo Sliramu...<br>Ngomong Cinta Sayang Mung Ning Aku...<br>Janji Setiyo Sak Umur Uripmu...<br>Ningopo Sak Ikine Tego...<br>Ning Ngarep Moto Kowe...<br>Nggandeng Wong Liyo<br><br>Ho...ho. .........Keiris Atiku<br><br>Ancen Rogo Iki Ora Nggetih Senajan Tatu...<br>Mergo Roso Perihe ...Ning Njero Dodoku...<br>Gulone Manis ...Isih Manis Madu...<br>Mergane Sing Mbok Iris Atiku...<br><br>Ora Perpisahan Sing Dadi Getuning Atii...<br>Nanging Nyapo Mbiyen Kowe Tak Senengi ...<br>Nyenengi Sliramu Gawe Loro Atiku...<br>Getune Nyapo Mbiyen Ketemu. <br>Getune Nyapo Mbiyen Ketemu. "
+    },
+    {
+      "id": 9,
+      "name_category": "ADELLA TERBARU",
+      "title": "ACA ACA NEHI NEHI",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/1CHACAACANEHINEHILA.mp3",
+      "duration": "253",
+      "lyrics": "<br>Mamamamama mau makan mau minum bikin sendiri<br>Cuci baju celana nyetrika pun sendiri<br>Apalagi bila tanggal tua mendekati<br>Aku bagai perawan yang tak punya suami<br><br>Nasib memang nasib jadi begini<br>Semuanya apa-apa ku lakukan sendiri<br>Lama-lama mumet juga eh kalo begini<br>Bisa talak tilu talak tilu<br><br>Alala tum jahe jahe aca aca nehi nehi<br>Aduh biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Pulang saja kau pulang ke rumah orang tuamu<br><br>Alala tum jahe jahe aca aca nehi nehi<br>Aduh biyung inyong ora sudi<br>Bila dirimu terus begitu<br>Aku pulangkan kamu<br><br>Hoo... maunya aku marah eh aku bingung sendiri<br>Baru mau ngomong eh malah ditinggal pergi<br>Mondar mandir sendiri bingung mau ngapain<br><br>Ampun gusti ampuni hambamu ini<br>Bila ada uang aku disayang<br>Bila tak ada, jatah kopi pun hilang<br><br>Lama-lama kalau begini rontok hatiku<br><br>Bisa talak tilu talak tilu<br>Alala tum jahe jahe aca aca nehi nehi<br>Aduh biyung inyong ora sudi<br>Bila sifatmu terus begitu<br><br>Pulang saja kau pulang ke rumah orang tuamu<br>Alala tum jahe jahe aca aca nehi nehi<br>Aduh biyung inyong ora sudi<br>Bila dirimu terus begitu<br>Aku pulangkan kamu<br><br>Jahe jahe alala tum jahe jahe<br><br>Nehi nehi aca aca nehi nehi<br>Jahe jahe alala tum jahe jahe<br>Aca aca aca nehi nehi nehi<br><br>Alala tum jahe jahe aca aca nehi nehi<br>Aduh biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Aku pulangkan kamu<br><br>Alalala tum jahe jahe aca aca nehi nehi<br>Aduh biyung inyong ora sudi<br>Bila sifatmu selalu begitu<br>Aku pulangkan kamu "
+    },
+    {
+      "id": 10,
+      "name_category": "ADELLA TERBARU",
+      "title": "WIDODARI",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/10CHWIDODARILA.mp3",
+      "duration": "382",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "ADELLA TERBARU",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/11CHREMBULANMALAMLA.mp3",
+      "duration": "338",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "ADELLA TERBARU",
+      "title": "GEDANG ROJO",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/12CHGEDANGROJOLA.mp3",
+      "duration": "372",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "ADELLA TERBARU",
+      "title": "MENDUNG TANPO UDAN",
+      "image": "file:///android_asset/image/DELTER.jpg",
+      "link_mp3": "mp3/13CHMENDUNGTANPOUDANDLA.mp3",
+      "duration": "375",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "KOPLO",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/14CHSETIAUNTUKSELAMANYALA.mp3",
+      "duration": "361",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "KOPLO",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/15CHCIDRO2LA.mp3",
+      "duration": "223",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "KOPLO",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/16CHLEMAHTELESLA.mp3",
+      "duration": "425",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "KOPLO",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/17CHSALAMTRESNOLA.mp3",
+      "duration": "316",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "KOPLO",
+      "title": "SOTYA",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/18CHSOTYALA.mp3",
+      "duration": "283",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "KOPLO",
+      "title": "CERITO LORO",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/19CHCERITOLOROLA.mp3",
+      "duration": "295",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "KOPLO",
+      "title": "BAHAGIA",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/20CHBAHAGIALA.mp3",
+      "duration": "396",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "KOPLO",
+      "title": "JANDA BARU",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/CHJANDABARULA.mp3",
+      "duration": "440",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "KOPLO",
+      "title": "KANDAS",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/CHKANDASLA.mp3",
+      "duration": "272",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "KOPLO",
+      "title": "LUKA LAMA",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/CHLUKALAMALA.mp3",
+      "duration": "332",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "KOPLO",
+      "title": "TRESNO SUDRO",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/CHRESNOSUDROLA.mp3",
+      "duration": "308",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "KOPLO",
+      "title": "SAKIT GIGI",
+      "image": "file:///android_asset/image/DELPLO.jpg",
+      "link_mp3": "mp3/CHSAKITGIGILA.mp3",
+      "duration": "305",
+      "lyrics": ""
+    }
+
+
+  ]
+}
