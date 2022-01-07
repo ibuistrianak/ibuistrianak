@@ -1,0 +1,303 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 4,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/YYA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "KOPLO",
+      "image": "file:///android_asset/image/YYB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "DURI DURI",
+    "image": "file:///android_asset/image/YYA.jpg",
+    "link_mp3": "mp3/9YNDURIDURIKA.mp3",
+    "duration": "285",
+    "lyrics": "Duri duri yang kau tancapkan di hati ini<br>Membuat diriku sakit hati<br>Aku yang berjuang tuk dirimu<br>Tapi dia yang dapatkan cintamu<br><br><br>Surat undangan yang kau berikan kepadaku<br>Serasa ku tak percaya<br>Ku titipkan cintaku kepadanya<br>Jagalah dia, buatlah dia bahagia<br><br><br>Sekarang ku tahu dirimu telah bersamanya<br>Walau sakit hati yang ku rasa<br>Akan ku jalani dengan sendirinya<br><br><br>Ku terus berjuang walau tanpamu sayang<br>Mimpi mimpi yang telah ku ciptakan<br>Kini hanya tinggallah kenangan<br><br><br>Duri duri yang kau tancapkan di hati ini<br>Membuat diriku sakit hati<br>Aku yang berjuang tuk dirimu<br>Tapi dia yang dapatkan cintamu<br>Surat undangan yang kau berikan kepadaku<br>Serasa ku tak percaya<br>Ku titipkan cintaku kepadanya<br>Jagalah dia, buatlah dia bahagia<br><br><br>Ku terus berjuang walau tanpamu sayang<br>Mimpi mimpi yang telah ku ciptakan<br>Kini hanya tinggallah kenangan<br><br><br>Duri duri yang kau tancapkan di hati ini<br>Membuat diriku sakit hati<br>Aku yang berjuang tuk dirimu<br>Tapi dia yang dapatkan cintamu<br><br><br>Surat undangan yang kau berikan kepadaku<br>Serasa ku tak percaya<br>Ku titipkan cintaku kepadanya<br>Jagalah dia, buatlah dia bahagia<br><br><br>Duri duri yang kau tancapkan di hati ini<br>Membuat diriku sakit hati<br>Aku yang berjuang tuk dirimu<br>Tapi dia yang dapatkan cintamu<br><br><br>Surat undangan yang kau berikan kepadaku<br>Serasa ku tak percaya<br>Ku titipkan cintaku kepadanya<br>Jagalah dia, buatlah dia bahagia<br>agalah dia, buatlah dia bahagia"
+  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/8YNBIDADARICINTAKA.mp3",
+      "duration": "272",
+      "lyrics": "bersyukur kepada allah<br>ku telah dipertemukan<br>kekasih baik hati sepertimu<br><br><br>apa pun adanya engkau<br>kurela dan menerima<br>segenap jiwa ragaku untukmu<br><br><br>sampai ajal menjemputku<br>ku selalu mencintamu<br>menyayangmu<br>engkau tulang rusukku<br><br><br>hingga di syurga-nya allah<br>kuingin bersamamu<br>dan menjadi bidadari cintamu<br><br><br>apa pun adanya engkau<br>kurela dan menerima<br>segenap jiwa ragaku untukmu<br><br><br>sampai ajal menjemputku<br>ku selalu mencintamu<br>menyayangmu<br>engkau tulang rusukku<br><br><br>hingga di syurga-nya allah<br>kuingin bersamamu<br>dan menjadi bidadari cintamu<br><br><br>apa pun adanya engkau<br>kurela dan menerima<br>segenap jiwa ragaku untukmu<br><br><br>sampai ajal menjemputku<br>ku selalu mencintamu<br>menyayangmu<br>engkau tulang rusukku<br><br><br>hingga di syurga-nya allah<br>kuingin bersamamu<br>dan menjadi bidadari cintamu<br><br><br>sampai ajal menjemputku<br>ku selalu mencintamu<br>menyayangmu<br>engkau tulang rusukku<br><br><br>hingga di syurga-nya allah<br>kuingin bersamamu<br>dan menjadi bidadari cintamu<br>dan menjadi bidadari cintamu<br>dan menjadi bidadari cintamu"
+    },
+    {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "BUH JADI PERMADANI",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/7YNBUIHJDIPERMADANIKA.mp3",
+      "duration": "298",
+      "lyrics": "Dinginnya angin malam ini menyapa tubuhku<br>Namun tidak dapat dinginkan panasnya hatiku ini<br>Terasa terhempasnya kelakianku ini dengan sikapmu<br>Apakah karena aku insan kekurangan mudahnya kau mainkan<br><br><br>Oh mungkinkah diri ini<br>Dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta, yang kau ucap dalam janji cinta<br>Juga mustahil bagiku, menggapai bintang di langit<br>Siapa lah diriku hanya insan biasa<br>Semua itu, sungguh aku tiada mampu<br><br><br>Salah aku juga, karena jatuh cinta<br>Insan sepertimu seanggun bidadari<br>Seharusnya aku, cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu<br><br><br>Oh mungkinkah diri ini<br>Dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta, yang kau ucap dalam janji cinta<br>Juga mustahil bagiku, menggapai bintang di langit<br>Siapa lah diriku hanya insan biasa<br>Semua itu, sungguh aku tiada mampu<br><br><br>Salah aku juga, karena jatuh cinta<br>Insan sepertimu seanggun bidadari<br>Seharusnya aku, cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu"
+    },
+    {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "MADIUN NGAWI",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/6YNMADIUNNGAWIKA.mp3",
+      "duration": "321",
+      "lyrics": "Terminal Madiun Ngawi kenanganku<br>Ora bakalan aku ngelalekke<br>Mbiyen aku nduwe pacar anakke pak Tukiran<br>Bakul pecel ono ning pinggir prapatan<br><br><br>Terminal Madiun Ngawi nggen dolanku<br>Ora bakalan aku ngelalekke<br>Mbiyen jaman semono kowe janji karo aku<br>Nanging nyatane kowe ngingkari janjimu<br><br><br>Yen aku kangen kangen karo sliramu<br>Tak sawang sawang fotomu ning dompetku<br>Yen aku kangen kangen karo sliramu<br>Tak elus elus fotomu ning dompetku<br><br><br>Opo kowe ra kroso tak batin saben dino<br>Ra bakal ilang fotomu ning dompetku<br>Opo kowe ra kroso tak batin saben dino<br>Ra bakal ilang jenengmu ning atiku<br><br><br>Terminal Madiun Ngawi nggen dolanku<br>Ora bakalan aku ngelalekke<br>Mbiyen jaman semono kowe janji karo aku<br>Nanging nyatane kowe ngingkari janjimu<br><br><br>Yen aku kangen kangen karo sliramu<br>Tak sawang sawang fotomu ning dompetku<br>Yen aku kangen kangen karo sliramu<br>Tak elus elus fotomu ning dompetku<br><br><br>Opo kowe ra kroso tak batin saben dino<br>Ra bakal ilang fotomu ning dompetku<br>Opo kowe ra kroso tak batin saben dino<br>Ra bakal ilang jenengmu ning atiku"
+    },
+    {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "ACA ACA NEHI NEHI",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/5YNACAACANHINHIKA.mp3",
+      "duration": "253",
+      "lyrics": "Dinginnya angin malam ini<br>Menyapa tubuhku<br>Namun tidak dapat dinginkan panasnya<br>Hatiku ini<br>Terasa terhempasnya kelakianku ini<br>Dengan sikapmu<br>Apakah karna aku<br>Insan kekurangan<br>Mudahnya kau mainkan<br><br>Oh mungkinkah diri ini<br>dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta yang kau ucap<br>Dalam janji cinta<br>Juga mustahil bagiku<br>Menggapai bintang di langit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku tiada mampu<br><br>Salah aku juga karna jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu<br><br>Oh mungkinkah diri ini<br>dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta yang kau ucap<br>Dalam janji cinta<br>Juga mustahil bagiku<br>Menggapai bintang di langit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku tiada mampu<br><br>Salah aku juga karna jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu<br><br>Oh mungkinkah diri ini<br>dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta yang kau ucap<br>Dalam janji cinta<br>Juga mustahil bagiku<br>Menggapai bintang di langit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku tiada mampu<br><br>Salah aku juga karna jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu"
+    },
+    {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/4YNTOPTPANKA.mp3",
+      "duration": "276",
+      "lyrics": "Wes tak cobo ngampet loro<br>Wes tak cobo jogo tresno<br>Loro sing tok jalari ora tak rasakke<br>Najan aku ngerti koe karo liyane<br><br><br>Cobo koe ono ning posisiku<br>Opo koe iso kuat atimu<br>Ngrasakke tok larani<br>Ning sak bendinoku<br>Koe ra ngroso kok malah suloyo<br><br><br>Kulo pun angkat tangan<br>Atine pun ajur ajuran<br>Kulo tak milih pamit<br>Ati kulo pun roso sakit<br><br><br>Ngapurane sayang<br>Aku udu wong top topan<br>Ora koyo idamanmu<br>Sing gampang nrobos atimu<br><br><br>Aku janne ngerti koe ghosting ati<br>Tak cobo goblok tetap mencintai<br>Sepenuh hati<br><br><br>Kulo pun angkat tangan<br>Atine pun ajur ajuran<br>Kulo tak milih pamit<br>Ati Kulo Pun Roso Sakit<br><br><br>Ngapurane sayang<br>Aku udu wong top topan<br>Ora koyo idamanmu<br>Sing gampang nrobos atimu<br><br><br>Aku janne ngerti koe ghosting ati<br>Tak cobo goblok tetap mencintai<br>Sepenuh hati<br><br><br>Ngapurane sayang<br>Aku udu wong top topan<br>Ora koyo idamanmu<br>Sing gampang nrobos atimu<br><br><br>Aku janne ngerti koe ghosting ati<br>Tak cobo goblok tetap mencintai<br>Sepenuh hati<br>Tak cobo goblok tetap mencintai<br>Sepenuh hati"
+    },
+    {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "BILA NANTI",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/3YNBILANANTIKA.mp3",
+      "duration": "336",
+      "lyrics": "Bila memang engkau tak lagi cinta<br>Lebih baik engkau katakan saja<br>Ku relakan bila kau ingin pergi<br>Meninggalkan luka di dalam hati<br><br>Cukup sudah kau lukai hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Namun hati takkan kembali<br>Seperti dulu lagi<br><br>Cukup sudah kau lukai hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Namun hati takkan kembali<br>Seperti dulu lagi<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Seperti dulu lagi<br><br>Namun hati takkan kembali<br>Seperti dulu lagi"
+    },
+    {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "CIDRO 3",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/2YNCIDRO3KA.mp3",
+      "duration": "349",
+      "lyrics": "jare kowe wes ngukir jenengku<br>mbok patri ning njero atimu<br>yen iling mbiyen karo janjimu<br>tresnomu mung siji yo aku<br><br>ning opo saikine cidro<br>kabeh omongmu kuwi gombal mukiyo<br><br>sopo wonge sing ra bakal tatu<br>nyenengi wong koyo sliramu<br>ngomong cinta sayang mung ning aku<br>janji setiyo sak umur uripmu<br><br>ning opo sak ikine tego<br>ning ngarep moto kowe nggandeng wong liyo<br>hohooo hohooo keiris atiku<br><br>ancen rogo iki ora nggetih senajan tatu<br>mergo roso perihe ning njero dodoku<br>gulone manis isih manis madu<br>mergane sing mbok iris atiku<br><br>ora perpisahan sing dadi getuning ati<br>nanging nyapo mbiyen kowe tak senengi<br>nyenengi sliramu gawe loro atiku<br>getune nyapo mbiyen ketemu<br><br>sopo wonge sing ra bakal tatu<br>nyenengi wong koyo sliramu<br>ngomong cinta sayang mung ning aku<br>janji setiyo sak umur uripmu<br><br>ning opo sak ikine tego<br>ning ngarep moto kowe nggandeng wong liyo<br>hohooo hohooo keiris atiku<br><br>ancen rogo iki ora nggetih senajan tatu<br>mergo roso perihe ning njero dodoku<br>gulone manis isih manis madu<br>mergane sing mbok iris atiku<br><br>ora perpisahan sing dadi getuning ati<br>nanging nyapo mbiyen kowe tak senengi<br>nyenengi sliramu gawe loro atiku<br>getune nyapo mbiyen ketemu<br>getune nyapo mbiyen ketemu<br>"
+    },
+    {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "YANG TERDALAM",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/1YNYNGTRDALAMKA.mp3",
+      "duration": "384",
+      "lyrics": "Takkan lelah aku menanti<br>Takkan hilang cintaku ini<br>Hingga saat kau tak kembali<br>'Kan kukenang di hati saja<br><br>Kulepas semua yang kuinginkan<br>Tak akan kuulangi<br>Maafkan jika kau kusayangi<br>Dan bila ku menanti<br><br>Pernahkah engkau coba mengerti<br>Lihatlah ku di sini<br>Mungkinkah jika aku bermimpi<br>Salahkah 'tuk menanti<br><br>Takkan lelah aku menanti<br>Takkan hilang cintaku ini<br>Hingga saat kau tak kembali<br>'Kan kukenang di hati saja<br><br>Pernahkah engkau coba mengerti<br>Lihatlah ku di sini<br>Mungkinkah jika aku bermimpi<br>Salahkah 'tuk menanti<br><br>Takkan lelah aku menanti<br>Takkan hilang cintaku ini<br>Hingga saat kau tak kembali<br>'Kan kukenang di hati saja<br><br>Pernahkah engkau coba mengerti<br>Lihatlah ku di sini<br>Mungkinkah jika aku bermimpi<br>Salahkah 'tuk menanti<br><br>Takkan lelah aku menanti<br>Takkan hilang cintaku ini<br>Hingga saat kau tak kembali<br>'Kan kukenang di hati saja<br><br>Kau telah tinggalkan<br>Hati yang terdalam<br>Hingga tiada cinta<br>Yang tersisa di jiwa"
+    },
+    {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "JIKA",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/10YNJIKAKA.mp3",
+      "duration": "298",
+      "lyrics": "Jika teringat tentang dikau<br>Jauh di mata dekat di hati<br>Sempat terpikir tuk kembali<br>Walau beda akan kujalani<br>Tak ada niat untuk selamanya pergi<br><br><br>Jika teringat tentang dikau<br>Jauh di mata dekat di hati<br>Apakah sama yang kurasa<br>Ingin jumpa walau ada segan<br>Tak ada niat untuk berpisah denganmu<br><br><br>Jika memang masih bisa mulut ku berbicara<br>Santun kata yang ingin terucap<br>Kan ku dengar caci dan puji dirimu padaku<br>Kita masih muda dalam mencari keputusan<br>Maafkan daku ingin kembali<br>Seumpama ada jalan tuk kembali<br><br><br>Jika teringat tentang dikau<br>Jauh di mata dekat di hati<br>Apakah sama yang kurasa<br>Ingin jumpa walau ada segan<br>Tak ada niat untuk selamanya pergi<br><br><br>Jika teringat tentang dikau<br>Jauh di mata dekat di hati<br>Apakah sama yang kurasa<br>Ingin jumpa walau ada segan<br>Tak ada niat untuk berpisah denganmu<br><br><br>Jika memang masih bisa mulut ku berbicara<br>Santun kata yang ingin terucap<br>Kan ku dengar caci dan puji dirimu padaku<br>Kita masih muda dalam mencari keputusan<br>Maafkan daku ingin kembali<br>Seumpama ada jalan tuk kembali<br><br>Jika memang masih bisa mulut ku berbicara<br>Santun kata yang ingin terucap<br>Kan ku dengar caci dan puji dirimu padaku<br>Kita masih muda dalam mencari keputusan<br>Maafkan daku ingin kembali<br>Seumpama ada jalan tuk kembali<br>"
+    },
+    {
+      "id": 11,
+      "name_category": "TERBARU",
+      "title": "MENDUNG TANPO UDAN",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/11YNMNDUNGTANPOUDANKA.mp3",
+      "duration": "375",
+      "lyrics": "Dinginnya angin malam ini menyapa tubuhku<br>Namun tidak dapat dinginkan panasnya hatiku ini<br>Terasa terhempasnya kelakianku ini dengan sikapmu<br>Apakah karena aku insan kekurangan mudahnya kau mainkan<br><br><br>Oh mungkinkah diri ini<br>Dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta, yang kau ucap dalam janji cinta<br>Juga mustahil bagiku, menggapai bintang di langit<br>Siapa lah diriku hanya insan biasa<br>Semua itu, sungguh aku tiada mampu<br><br><br>Salah aku juga, karena jatuh cinta<br>Insan sepertimu seanggun bidadari<br>Seharusnya aku, cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu<br><br><br>Oh mungkinkah diri ini<br>Dapat merubah buih yang memutih<br>Menjadi permadani<br>Seperti pinta, yang kau ucap dalam janji cinta<br>Juga mustahil bagiku, menggapai bintang di langit<br>Siapa lah diriku hanya insan biasa<br>Semua itu, sungguh aku tiada mampu<br><br><br>Salah aku juga, karena jatuh cinta<br>Insan sepertimu seanggun bidadari<br>Seharusnya aku, cerminkan diriku<br>Sebelum tirai hati aku buka<br>Untuk mencintaimu"
+    },
+    {
+      "id": 12,
+      "name_category": "TERBARU",
+      "title": "SIA SIA BERJUANG",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/12YNSIASIABERJUANGKA.mp3",
+      "duration": "286",
+      "lyrics": "<br><br>Sia-sia ku berjuang<br>Merantau di negeri orang<br>Semua ku lakukan untukmu sayang<br>Tapi kau malah putuskan hubungan<br><br><br>Sungguh sakit hati ini sakit<br>Mendengar kabar kau telah dijodohkan<br>Orang tuamu tak merestui kita<br>Ku hanya bisa mendoakan engkau bahagia<br><br><br>Sayang ku sedang berjuang<br>Untuk melamar dirimu<br>Tapi mengapa kau tinggalkanku<br>Demi orang yang baru kau kenal<br><br><br>Tiga tahun kita telah bersama<br>Menjalani hubungan cinta kita<br>Orang tuamu tak merestui kita<br>Sungguh sakit hati ini rasanya<br><br><br>Sia-sia ku berjuang<br>Merantau di negeri orang<br>Semua ku lakukan untukmu sayang<br>Tapi kau malah putuskan hubungan<br><br><br>Sungguh sakit hati ini sakit<br>Mendengar kabar kau telah dijodohkan<br>Orang tuamu tak merestui kita<br>Ku hanya bisa mendoakan engkau bahagia<br><br><br>Tiga tahun kita telah bersama<br>Menjalani hubungan cinta kita<br>Orang tuamu tak merestui kita<br>Sungguh sakit hati ini rasanya<br><br><br>Sia-sia ku berjuang<br>Merantau di negeri orang<br>Semua ku lakukan untukmu sayang<br>Tapi kau malah putuskan hubungan<br><br><br>Sungguh sakit hati ini sakit<br>Mendengar kabar kau telah dijodohkan<br>Orang tuamu tak merestui kita<br>Ku hanya bisa mendoakan engkau bahagia<br><br><br>Sia-sia ku berjuang<br>Merantau di negeri orang<br>Semua ku lakukan untukmu sayang<br>Tapi kau malah putuskan hubungan<br><br><br>Sungguh sakit hati ini sakit<br>Mendengar kabar kau telah dijodohkan<br>Orang tuamu tak merestui kita<br>Ku hanya bisa mendoakan engkau bahagia<br>Ku hanya bisa mendoakan engkau bahagia<br>"
+    },
+    {
+      "id": 13,
+      "name_category": "TERBARU",
+      "title": "WIDODARI",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/13YNWIDODRIKA.mp3",
+      "duration": "382",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "TERBARU",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/A1LEMAHTELES.mp3",
+      "duration": "380",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "TERBARU",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/YYA.jpg",
+      "link_mp3": "mp3/A2HARUSKAHAKUMATI.mp3",
+      "duration": "277",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "KOPLO",
+      "title": "CERITO LORO",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/A3AYCERITOLORO.mp3",
+      "duration": "295",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "KOPLO",
+      "title": "ANGEL",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/A3YENIANGEL.mp3",
+      "duration": "284",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "KOPLO",
+      "title": "SATRU",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/A4YENIFENDIKSATRU.mp3",
+      "duration": "290",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "KOPLO",
+      "title": "SAKIT GIGI",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/A5YSAKITGIGI.mp3",
+      "duration": "305",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "KOPLO",
+      "title": "SOTYA",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/A6YENISOTYA.mp3",
+      "duration": "283",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "KOPLO",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/AA1CIDRO2.mp3",
+      "duration": "358",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "KOPLO",
+      "title": "AKU RA MUNDUR",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/AAKURAMUNDUR.mp3",
+      "duration": "377",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "KOPLO",
+      "title": "MELUKIS SENJA",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/AAMELUKISSENJA.mp3",
+      "duration": "331",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "KOPLO",
+      "title": "MENUNGSO ORA TOTO",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/AAMENUNGSOORATOTO.mp3",
+      "duration": "346",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "KOPLO",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/AASALAMTRESNO.mp3",
+      "duration": "405",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "KOPLO",
+      "title": "WES TATAS",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/AAWESTATAS.mp3",
+      "duration": "322",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "KOPLO",
+      "title": "OS DOL",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/AYENLOSDOL.mp3",
+      "duration": "374",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "KOPLO",
+      "title": "BANYU MOTO",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/BYENBANYUMOTO.mp3",
+      "duration": "342",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "KOPLO",
+      "title": "LILAKNO LUNGAKU",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/DYENLILAKNOLUNGAKU.mp3",
+      "duration": "290",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "KOPLO",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/YYB.jpg",
+      "link_mp3": "mp3/YENDALANLIYANE.mp3",
+      "duration": "261",
+      "lyrics": ""
+    }
+
+  ]
+}
