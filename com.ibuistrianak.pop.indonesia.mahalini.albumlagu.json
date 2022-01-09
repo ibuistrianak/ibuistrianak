@@ -1,0 +1,266 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 4,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "MAHALINI",
+    "image": "file:///android_asset/image/ma.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "POP INDONESIA",
+      "image": "file:///android_asset/image/pi.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "POP INDONESIA",
+    "title": "ROMAN PICISAN",
+    "image": "file:///android_asset/image/ma.jpg",
+    "link_mp3": "mp3/4ZMAROMANPICISANLI.mp3",
+    "duration": "282",
+    "lyrics": "Tatap matamu bagai busur panah<br>Yang kau lepaskan ke jantung hatiku<br>Meski kau simpan cintamu masih<br>Tetap nafasku wangi hiasi suasana<br>Saat ku kecup manis bibirmu<br><br>Cintaku tak harus, miliki dirimu<br>Meski perih mengiris-iris segala janji<br><br>Aku berdansa diujung gelisah<br>Di iringi syahdu lembut lakumu<br>Kau sebar benih anggun jiwamu<br>Namun kau tiada, menuai buah cintaku<br>Yang ada hanya sekuntum rindu<br><br>Cintaku tak harus, miliki dirimu<br>Meski perih mengiris-iris segala janji<br><br>Malam-malamku bagai malam seribu bintang<br>Yang terbentang di angkasa bila kau disini<br>Tuk sekedar menemani,'tuk melintasi wangi<br>Yang s'lalu tersaji di satu sisi hati<br><br>Malam-malamku bagai malam seribu bintang<br>Yang terbentang di angkasa bila kau disini<br>Tuk sekedar menemani,'tuk melintasi wangi<br>Yang s'lalu tersaji di satu sisi hati<br><br>Malam-malamku bagai malam seribu bintang<br>Yang terbentang di angkasa bila kau disini<br>Tuk sekedar menemani,'tuk melintasi wangi<br>Yang s'lalu tersaji di satu sisi hati<br><br>Cintaku tak harus, miliki dirimu<br>Meski perih mengiris-iris segala janji<br>Cintaku tak harus, miliki dirimu<br>Meski perih mengiris-iris segala janji"
+  },
+    {
+      "id": 2,
+      "name_category": "POP INDONESIA",
+      "title": "BINTANG DISURGA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/3ZMABINTANGDISURGALI.mp3",
+      "duration": "274",
+      "lyrics": "Masih ku merasa angkuh<br>Terbang kenanganku jauh<br>Langit kan menangkapku<br>Walau kan terjatuh<br><br>Dan bila semua tercipta<br>Hanya untukku merasakan<br>Semua yang tercipta<br>Hampa hidup terasa<br><br>Lelah tatapku mencari<br>Arti untukku membagi<br>Menemani langkahku<br>Namun tak berarti<br><br>Dan bila semua tercipta<br>Tanpa harus ku merasakan<br>Cinta yang tersisa<br>Hampa hidup terasa<br><br>Bagai bintang di surga<br>Dan seluruh warna<br>Dan kasih yang setia<br>Dan cahaya nyata<br><br>Oh bintang di surga<br>Berikan cerita<br>Dan kasih yang setia<br>Dan cahaya nyata<br><br>Lelah tatapku mencari<br>Arti untukku membagi<br>Menemani langkahku<br>Namun tak berarti<br><br>Dan bila semua tercipta<br>Tanpa harus ku merasakan<br>Cinta yang tersisa<br>Hampa hidup terasa<br><br>Bagai bintang di surga<br>Dan seluruh warna<br>Dan kasih yang setia<br>Dan cahaya nyata<br><br>Oh bintang di surga<br>Berikan cerita<br>Dan kasih yang setia<br>Dan cahaya nyata<br><br>Oh bintang di surga..."
+    },
+    {
+      "id": 3,
+      "name_category": "POP INDONESIA",
+      "title": "BILA NANTI",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/2ZMABILANANTILI.mp3",
+      "duration": "290",
+      "lyrics": "Bila Memang Engkau Tak Lagi Cinta<br>Lebih Baik Engkau Katakan Saja<br>Ku Relakan Bila Kau Ingin Pergi<br>Meninggalkan Luka Didalam Hati<br><br>Cukup Sudah Kau Lukai Hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Namun hati takkan kembali<br>Seperti dulu lagi<br><br>Cukup sudah kau lukai hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah engkau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Namun hati tak kan kembali<br>Seperti dulu lagi<br>"
+    },
+    {
+      "id": 4,
+      "name_category": "POP INDONESIA",
+      "title": "YANG TERDALAM",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/1ZMAYANGTERDALALI.mp3",
+      "duration": "194",
+      "lyrics": "Kulepas semua yang kuinginkan<br>Tak akan kuulangi<br>Maafkan jika kau kusayangi<br>Dan bila kumenanti<br><br>Pernahkah engkau coba mengerti<br>Lihatlah aku di sini<br>Mungkinkah jika aku bermimpi<br>Salahkah tuk menanti<br><br>Takkan lelah aku menanti<br>Takkan hilang cintaku ini<br>Hingga saat kau tak kembali<br>Kan kukenang di hati saja<br><br>Kau telah tinggalkan hati yang terdalam<br>Hingga tiada cinta yang tersisa di jiwa"
+    },
+    {
+      "id": 5,
+      "name_category": "MAHALINI",
+      "title": "BAWA DIA KEMBALI",
+      "image": "file:///android_asset/image/ma.jpg",
+      "link_mp3": "mp3/5MABAWADIAKEMBALILI.mp3",
+      "duration": "244",
+      "lyrics": "Malam ini aku menanti<br>Kedatanganmu mengisi sepiku<br>Lama terasa waktu bergulir<br>Karena dirimu tak bersamaku<br><br>Oh Tuhan tolonglah bawa dia kembali<br>Bersamaku di sini menjagaku selalu<br>Dengarlah doaku yang tak pernah meminta<br>Bawa dia kembali bersama walau hanya sesaat<br><br>Masih terasa hembus napasmu<br>Saat ku gundah kau lipur laraku<br>Kini terasa semakin dalam<br>Rasa rinduku pada dirimu<br><br>Oh Tuhan tolonglah bawa dia kembali<br>Bersamaku di sini menjagaku selalu<br>Dengarlah doaku yang tak pernah meminta<br>Bawa dia kembali bersama walau hanya sesaat<br><br>Oh Tuhan tolonglah bawa dia kembali<br>Bersamaku di sini menjagaku selalu<br>Dengarlah doaku yang tak pernah meminta<br>Bawa dia kembali bersama walau hanya sesaat<br><br>Oh Tuhan tolonglah bawa dia kembali (bawa dia kembali)<br>Bersamaku di sini menjagaku selalu<br>Dengarlah doaku yang tak pernah meminta<br>Bawa dia kembali bersama walau hanya sesaat<br><br>Walau hanya sesaat<br>Walau hanya sesaat<br>"
+    },
+    {
+      "id": 6,
+      "name_category": "MAHALINI",
+      "title": "SEMUA UNTUKMU",
+      "image": "file:///android_asset/image/ma.jpg",
+      "link_mp3": "mp3/4MASEMUAUNTUKMULI.mp3",
+      "duration": "202",
+      "lyrics": "Hanya denganmu aku berbagi<br>Hanya dirimu paling mengerti<br>Kegelisahan dalam hatiku<br>Yang selama ini tak menentu.<br><br>Tak ada ragu dalam hatiku<br>Pastikan aku jadi cintamu<br>Seiring waktu yang tlah berlalu<br>Mungkin kau yang terakhir untukku.<br><br>Akan kulakukan semua untukmu<br>Akan kuberikan seluruh cintaku<br>Janganlah engkau berubah<br>Dalam menyayangi dan memahamiku.<br><br>Pegang tanganku, genggam jariku<br>Rasakan semua hangat diriku<br>Mengalir tulus untuk cintamu<br>Tak ada yang lain di hatiku.<br><br>Akan kulakukan semua untukmu<br>Akan kuberikan seluruh cintaku<br>Janganlah engkau berubah<br>Dalam menyayangi dan memahamiku.<br><br>Akan kulakukan semua untukmu<br>Akan kuberikan seluruh cintaku<br>Janganlah engkau berubah<br>Dalam menyayangi dan memahamiku.<br>"
+    },
+    {
+      "id": 7,
+      "name_category": "MAHALINI",
+      "title": "MELAWAN RESTU",
+      "image": "file:///android_asset/image/ma.jpg",
+      "link_mp3": "mp3/3MAMELAWANRESTULI.mp3",
+      "duration": "206",
+      "lyrics": "Indah semua cerita<br>Yang t’lah terlewati<br>Dalam satu cinta<br>Kita yang pernah bermimpi<br>Jalani semua<br>Hanya ada kita<br><br>Namun ternyata<br>Pada akhirnya<br>Tak mungkin bisa kupaksa<br>Restunya tak berpihak<br>Pada kita<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas dalam benakku<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita<br>S’lalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br><br>Namun ternyata<br>Pada akhirnya<br>Tak mungkin bisa kupaksa<br>Restunya tak berpihak<br>Pada kita<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas (tak terlintas) dalam benakku (dalam benakku)<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita (cinta kita)<br>Slalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br><br>Ooooo<br>Mengapa kita<br>Terlanjur mencinta<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas (tak terlintas) dalam benakku (dalam benakku)<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita<br>Slalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br>"
+    },
+    {
+      "id": 8,
+      "name_category": "MAHALINI",
+      "title": "SIS SIA RASA",
+      "image": "file:///android_asset/image/ma.jpg",
+      "link_mp3": "mp3/2MASISARASALI.mp3",
+      "duration": "242",
+      "lyrics": "Melihatmu bahagia<br>Satu hal yang terindah<br>Anugrah cinta yang pernah kupunya<br><br>Kau buat ku percaya<br>Ketulusan cinta<br>Seakan kisah sempurna kan tiba<br><br>Masih jelas teringat<br>Pelukanmu yang hangat<br>Seakan semua tak mungkin menghilang<br><br>Kini hanya kenangan<br>Yang telah kau tinggalkan<br>Tak tersisa lagi waktu bersama<br><br>Mengapa masih ada<br>Sisa rasa di dada<br>Di saat kau pergi begitu saja<br>Mampukah ku bertahan<br>Tanpa hadirmu sayang<br>Tuhan sampaikan rindu untuknya<br><br>Masih tersimpan, setiap kenangan<br>Semua cinta yang kau beri<br>Kau takkan terganti<br>"
+    },
+    {
+      "id": 9,
+      "name_category": "MAHALINI",
+      "title": "JANJI KITA",
+      "image": "file:///android_asset/image/ma.jpg",
+      "link_mp3": "mp3/1MAJANJIKITALI.mp3",
+      "duration": "277",
+      "lyrics": "Di dalam hati ini<br>Hanya ada satu cinta<br>Dan itu cuma ada di kamu<br><br>Kamu cinta Pertama di hidupku<br>Dan aku berjanji<br>Kau jadi cinta terakhirku<br><br>Aku pun merasakan sama<br>Saat kau hadir di hidupmu<br>Ku merasakan cinta yang tulus<br>Dari dirimu<br><br>Chorus:<br><br>Janji kita berdua semoga selamanya<br>Kau dan aku jadi satu di dalam ikatan cinta kita<br>Tanpamu aku tak kan bisa merasakan cinta sempurna<br>Kau lengkapi ku<br>Kamulah cinta yang di kirim Tuhan untukku<br><br>(*)<br><br>Aku pun merasakan sama<br>Saat kau hadir di hidupmu<br>Ku merasakan cinta yang tulus<br>Dari dirimu<br><br>Janji kita berdua semoga selamanya<br>Kau dan aku jadi satu di dalam ikatan cinta kita<br>Tanpamu aku tak kan bisa merasakan cinta sempurna<br>Kau lengkapi ku<br>Kamulah cinta yang di kirim Tuhan untukku<br>  <br>Bridge:<br><br>Selamanya Kau dan Aku kita di dalam Ikatan<br><br>Janji kita berdua semoga selamanya<br>Kau dan aku jadi satu di dalam ikatan cinta kita<br>Tanpamu aku tak kan bisa merasakan cinta sempurna<br>Kau lengkapiku<br>Kamulah cinta yang di kirim Tuhan untukku<br> "
+    },
+    {
+      "id": 10,
+      "name_category": "POP INDONESIA",
+      "title": "RELA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/6ZMARELALI.mp3",
+      "duration": "244",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "POP INDONESIA",
+      "title": "DULU",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/7ZMADULULI.mp3",
+      "duration": "210",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "POP INDONESIA",
+      "title": "ADA UNTUKMU",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/8ZMAADAUNTUKMULI.mp3",
+      "duration": "233",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "POP INDONESIA",
+      "title": "BAGAIMANA KALAU AKU TIDKA BAIK BAIK SAJA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/9ZMABAGAIMANAKALAUAKUTIDAKBAIKBAIKSAJALI.mp3",
+      "duration": "223",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "POP INDONESIA",
+      "title": "AKU BUKAN JODOHNYA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/10ZMAAKUBUKANJODOHNYALI.mp3",
+      "duration": "285",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "POP INDONESIA",
+      "title": "BISA TANPAMU",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/11ZMABISATANPAMULI.mp3",
+      "duration": "237",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "POP INDONESIA",
+      "title": "MUNGKIN HARI INI ESOK ATA NANTI",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/12ZMAMUNGKINHARIESOKATANANILI.mp3",
+      "duration": "224",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "POP INDONESIA",
+      "title": "TERLUKIS INDAH",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/13ZMATELUKISINDAHLI.mp3",
+      "duration": "213",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "POP INDONESIA",
+      "title": "TEMAN HIDUP",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/14ZMATEMANHIDUPLI.mp3",
+      "duration": "258",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "POP INDONESIA",
+      "title": "KALA CINTA MENGGODA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMAKALACINTAMENGODALI.mp3",
+      "duration": "212",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "POP INDONESIA",
+      "title": "KALAU BOSAN",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMAKALAUBOSANLI.mp3",
+      "duration": "200",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "POP INDONESIA",
+      "title": "MENCARI CINTA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMAMENCARICINTALI.mp3",
+      "duration": "272",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "POP INDONESIA",
+      "title": "MENAJADI DIA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMAMENJADIDIALI.mp3",
+      "duration": "214",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "POP INDONESIA",
+      "title": "MERASA INDAH",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMAMERASAINDAHLI.mp3",
+      "duration": "202",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "POP INDONESIA",
+      "title": "MELUKIS SENJA",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMAMLUKSSENJALI.mp3",
+      "duration": "241",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "POP INDONESIA",
+      "title": "PESAN TERAKHIR",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMAPESANTERAKHIRLI.mp3",
+      "duration": "227",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "POP INDONESIA",
+      "title": "RUNTUH",
+      "image": "file:///android_asset/image/pi.jpg",
+      "link_mp3": "mp3/ZMARUNTUHLI.mp3",
+      "duration": "218",
+      "lyrics": ""
+    }
+  ]
+}
