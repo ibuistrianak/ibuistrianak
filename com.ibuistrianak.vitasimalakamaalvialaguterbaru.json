@@ -1,0 +1,321 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/VT.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/VA.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "LAYANG DUNGO RESTU",
+    "image": "file:///android_asset/image/VT.jpg",
+    "link_mp3": "mp3/AA2LAYANGDUNGORESTU.mp3",
+    "duration": "288",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA1SALAMTRESNO.mp3",
+      "duration": "351",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "CIDRO",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA1CIDRO.mp3",
+      "duration": "256",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "CINTA MEMBAWA DERITA",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/A3CINTAMEMBAWADERITA.mp3",
+      "duration": "370",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/A2HARUSKAHAKUMATI.mp3",
+      "duration": "243",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/A1LEMAHTELES.mp3",
+      "duration": "276",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/A1ACBUIHJADIPERMADANI.mp3",
+      "duration": "337",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "LUKA SEKARAT RASA",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/A1ABLUKASEKARATRASA.mp3",
+      "duration": "284",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/A1AAOPTOPAN.mp3",
+      "duration": "233",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "ANGIN NDALU",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA3NGINDALU.mp3",
+      "duration": "180",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "TERBARU",
+      "title": "MENUNGSO ORA TOTO",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA4MANUNGSOORATOTO.mp3",
+      "duration": "244",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "TERBARU",
+      "title": "LOS DOL",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA5LOSDOL.mp3",
+      "duration": "258",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "TERBARU",
+      "title": "KARMILA",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA6KARMILA.mp3",
+      "duration": "255",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "TERBARU",
+      "title": "DADA SAYANG",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA7DADASAYANG.mp3",
+      "duration": "296",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "TERBARU",
+      "title": "KUAT ATI",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AA8KUATATI.mp3",
+      "duration": "277",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "TERBARU",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/VT.jpg",
+      "link_mp3": "mp3/AAA1VDALANLIYANE.mp3",
+      "duration": "283",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/AAA2AVRELADEMICINTA.mp3",
+      "duration": "255",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/AAA2CVSAMBELTERASI.mp3",
+      "duration": "238",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/AAA3DVWELASHANGRENGKENE.mp3",
+      "duration": "249",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/AAA4EVAKUTENANG.mp3",
+      "duration": "295",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/AAA5SAKITDALAMBERCINTA.mp3",
+      "duration": "228",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/AVISIMALAKAMATA.mp3",
+      "duration": "246",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/BVIPAMERBOJOTA.mp3",
+      "duration": "276",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/DVILINTANGATITA.mp3",
+      "duration": "331",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/EVIKEPALINGTA.mp3",
+      "duration": "331",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/GVILANGITDANBUMITA.mp3",
+      "duration": "314",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/HVIWEGAHKELANGANTA.mp3",
+      "duration": "307",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/IVILANGITBUMISAKSINETA.mp3",
+      "duration": "283",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/VIGEMANTUNGROSOTA.mp3",
+      "duration": "303",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/VIKARTOYONOMEDOTTA.mp3",
+      "duration": "314",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/VINGELABURLANGITTA.mp3",
+      "duration": "372",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "LENGKAP",
+      "title": "",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/VIOJONGUBERWELASTA.mp3",
+      "duration": "360",
+      "lyrics": ""
+    }
+
+  ]
+}
