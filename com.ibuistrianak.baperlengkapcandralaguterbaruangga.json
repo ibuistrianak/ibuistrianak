@@ -1,0 +1,294 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 4,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/AG.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "POPULER",
+      "image": "file:///android_asset/image/AGP.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "DUA CINCIN",
+    "image": "file:///android_asset/image/AG.jpg",
+    "link_mp3": "mp3/AAADUACINCIN.mp3",
+    "duration": "222",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "BINTANG TERINDAH",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAABINTANGTERINDAH.mp3",
+      "duration": "198",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAABIDADARIITUNYATA.mp3",
+      "duration": "209",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "DOSAKAH AKU",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAA1DOSAKAHAKU.mp3",
+      "duration": "222",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "SALAH",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AA1ESALAH.mp3",
+      "duration": "253",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "SANDARAN HATI",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AA1DSANDARANHATI.mp3",
+      "duration": "256",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AA1CBUIHJADIPERMADANI.mp3",
+      "duration": "357",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "MENGHARAPKANMU",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AA1BMENGHARAPKANMU.mp3",
+      "duration": "230",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AA1ADURIDURI.mp3",
+      "duration": "228",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "KESEPIAN",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAAKESEPIAN.mp3",
+      "duration": "194",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "TERBARU",
+      "title": "PERLAHAN",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAAPERLAHAN.mp3",
+      "duration": "193",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "TERBARU",
+      "title": "TAK SEINDAH CINTA YANG SEMESTINYA",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAATAKSEINDAHCINTAYANGSEMESINYA.mp3",
+      "duration": "255",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "TERBARU",
+      "title": "TENTANG RASA",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAATENTANGRASA.mp3",
+      "duration": "249",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "TERBARU",
+      "title": "UNGGU SEJENAK",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAATUNGGUSEJENAK.mp3",
+      "duration": "191",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "TERBARU",
+      "title": "TANPA NAMA",
+      "image": "file:///android_asset/image/AG.jpg",
+      "link_mp3": "mp3/AAGTANPANAMA.mp3",
+      "duration": "189",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "TERBARU",
+      "title": "SEMUA DEMI KAMU",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/ASSEMUADEMIKAMUKAP.mp3",
+      "duration": "187",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "TERBARU",
+      "title": "SAMPAI TUTUP USIA",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/BSSAMPAITUTUPUSIAKAP.mp3",
+      "duration": "242",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "TERBARU",
+      "title": "MELAMARMU",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/CSMELAMARMUKAP.mp3",
+      "duration": "245",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "TERBARU",
+      "title": "CINTA LUAR BIASA",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/DSCINTALUARBIASAKAP.mp3",
+      "duration": "217",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "TERBARU",
+      "title": "KEKASIH BAYANGAN",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/DSKEKASIHBAYANGANKAP.mp3",
+      "duration": "228",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "TERBARU",
+      "title": "PERNAH",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/ESPERNAHKAP.mp3",
+      "duration": "169",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "TERBARU",
+      "title": "TUHAN TIDAK TIDUR",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/FSTUHANTIDAKTIDURKAP.mp3",
+      "duration": "227",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "TERBARU",
+      "title": "JIKALAU KAU CINTA",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/GSJIKALAUKAUCINTAKAP.mp3",
+      "duration": "232",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "TERBARU",
+      "title": "BERSAMA BINTANG",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/SBERSAMABINTANGKAP.mp3",
+      "duration": "273",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "TERBARU",
+      "title": "BUTIRAN DEBU",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/SBUTIRANDEBUKAP.mp3",
+      "duration": "263",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "TERBARU",
+      "title": "CINTA TAK BERSYARAT",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/SCINTATAKBERSYARATKAP.mp3",
+      "duration": "252",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "TERBARU",
+      "title": "HARUSNYA AKU",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/SHARUNYAAKUKAP.mp3",
+      "duration": "209",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "TERBARU",
+      "title": "JAGA SLALU HATIMU",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/SJAGASLALUHATIMUKAP.mp3",
+      "duration": "183",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "TERBARU",
+      "title": "CINTA KAU LEBIH DARI KEMARIN",
+      "image": "file:///android_asset/image/AGP.jpg",
+      "link_mp3": "mp3/SKUCINTAKAULEBIHDARIKEMARINKAP.mp3",
+      "duration": "184",
+      "lyrics": ""
+    }
+
+  ]
+}
