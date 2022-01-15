@@ -1,0 +1,312 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwert12345",
+		"backup_ads_intertitial": "qwert12345",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "ARVIAN",
+			"image": "file:///android_asset/image/AR.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "POPULER",
+			"image": "file:///android_asset/image/PR.jpg"
+		}
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "ARVIAN",
+			"title": "JANG GANGGU",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/9RVJANGGANGGUDW.mp3",
+			"duration": "260",
+			"lyrics": "Boh sayang ko itu sa punya<br>Jang ada yang mo ganggu tong dua<br>Karna ko deng sa sama-sama bahagia<br>Ludah ludah dong yang tra suka<br><br>Oh, adoh adoh jang ganggu<br>Yang itu sa punya jang ganggu<br>Ko pi cari yang lain sudah<br>Tra usah jadi pengganggu<br><br>Sa su stay dengan dia dari lama<br>Jang ko datang toki dengan ko punya drama<br>Sio tabe sayang ko tabuang<br><br>Oh, adoh adoh jang ganggu<br>Yang itu sa punya jang ganggu<br>Ko pi cari yang lain sudah<br>Tra usah jadi pengganggu<br><br>Sa su stay dengan dia dari lama<br>Jang ko datang toki dengan ko punya drama<br>Sio tabe sayang ko tabuang<br><br>Oh, jang ganggu yang itu sa punya jang ganggu<br>Tra usah ko mo datang cari cari tau oh<br>Tabe di tra usah main ganas<br>Masih kalah jauh kurang berkelas<br><br>Kaka dong kurang kols ade trobos foll<br><br>Oh, adoh adoh jang ganggu<br>Yang itu sa punya jang ganggu<br>Ko pi cari yang lain sudah<br>Tra usah jadi pengganggu<br><br>Sa su stay dengan dia dari lama<br>Jang ko datang toki dengan ko punya drama<br>Sio tabe sayang ko tabuang<br><br>Oh, adoh adoh jang ganggu<br>Yang itu sa punya jang ganggu<br>Ko pi cari yang lain sudah<br>Tra usah jadi pengganggu<br><br>Sa su stay dengan dia dari lama<br>Jang ko datang toki dengan ko punya drama<br>Sio tabe sayang ko tabuang<br><br>Boleh kah jang ganggu dia de itu sa pu maitua<br>De su bahagia akan selalu setia sampe di hari tua<br>Tong tetap akan bersatu<br>Jadi kam sei jauh jauh<br><br>Sa mohon eh jan kam begitu<br>Aduh sio eh macam tra mampu<br>De pu mama su setuju saja ni anak mantu<br>Maskawin tong su atur langsung tong menuju<br><br>Ko sei su dari pada masalah<br>Lebih baik jang ganggu itu sa yang punya<br>Jang jadi pengganggu ko tu cuma benalu<br>Yang di saat di butuh kalo keluar rumah<br><br>Ko stop sudah dengan ko pu takalekang<br>Karna tendua bangun cinta tara gampang<br>Ko kasih pisah tong dua oh, tra bisa<br><br>Oh, adoh adoh jang ganggu<br>Yang itu sa punya jang ganggu<br>Ko pi cari yang lain sudah<br>Tra usah jadi pengganggu<br><br>Sa su stay dengan dia dari lama<br>Jang ko datang toki dengan ko punya drama<br>Sio tabe sayang ko tabuang<br><br>Oh, adoh adoh jang ganggu<br>Yang itu sa punya jang ganggu<br>Ko pi cari yang lain sudah<br>Tra usah jadi pengganggu<br><br>Sa su stay dengan dia dari lama<br>Jang ko datang toki dengan ko punya drama<br>Sio tabe sayang ko tabuang<br>"
+		},
+		{
+			"id": 2,
+			"name_category": "ARVIAN",
+			"title": "BEHENTI KASIHAN",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/8RVBERHENTIKASIHANDW.mp3",
+			"duration": "242",
+			"lyrics": "RingkasanLirikDengarkan<br>Bukan karna ko ti bae<br>Tapi ko cinta ti sampe sayang<br>Mengerti sa dolo<br><br>Bukan kurang sa mengeluh<br>Tapi memang sa su tau<br>Ko hanya kasihan sa saja mo<br><br>Biar hati sakit<br>Daripada begini<br>Sa ti bisa lagi<br><br>Kalau ti suka ko bilang<br>Jang pura-pura bahagia<br>Berhenti kasihan<br>Sa ti mau terpaksa<br><br>Sudah lebih baik ko hilang<br>Biar sakit jang ulang-ulang<br>Karna makin ko cinta<br>Makin sa tambah luka<br><br>Sa butuh ko cinta saya<br>Bukan hanya kasih sayang<br>Jujur hati sedih<br>Baru sa mo marah ke siapa<br>Ko ti pernah kasar<br>Tapi hati ni tabakar<br>Sayang lebih baik bubar<br><br>Su ulang-ulang sa terluka<br>Ko tipu bahagia depan sa pu muka<br><br>Sumpah sayang ti kuat<br><br>Kalau ti suka ko bilang<br>Jang pura-pura bahagia<br>Berhenti kasihan<br>Sa ti mau terpaksa<br><br>Sudah lebih baik ko hilang<br>Biar sakit jang ulang-ulang<br>Karna makin ko cinta<br>Makin sa tambah luka<br><br>Bukan karna ko ti bae<br>Tapi ko cinta ti sampe sayang<br>Mengerti sa dolo<br><br>Bukan kurang sa mengeluh<br>Tapi memang sa su tau<br>Ko hanya kasihan sa saja mo<br><br>Biar hati sakit<br>Daripada begini<br>Sa ti bisa lagi<br><br>Kalau ti suka ko bilang<br>Jang pura-pura bahagia<br>Berhenti kasihan<br>Sa ti mau terpaksa<br><br>Sudah lebih baik ko hilang<br>Biar sakit jang ulang-ulang<br>Karna makin ko cinta<br>Makin sa tambah luka<br>"
+		},
+		{
+			"id": 3,
+			"name_category": "ARVIAN",
+			"title": "PUTUS ATAU TERUS",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/7RVPUTUSATAUTERUSDW.mp3",
+			"duration": "239",
+			"lyrics": "Aku sedang bertanya-tanya<br>Tentang perasaan kita<br>Benarkah kita saling mencinta<br>Atau hanya pernah saling cinta<br><br>Bukankah kamu juga merasa<br>Dingin mulai menjalari percakapan kita<br>Pertanyaan kamu sedang apa<br>Terkesan hanya sebuah formalitas saja<br><br>Coba tanyakan lagi pada hatimu<br>Apakah sebaiknya kita putus atau terus<br>Kita sedang mempertahankan hubungan<br>Atau hanya sekedar menunda perpisahan<br><br>Bukankah kamu juga merasa<br>Dingin mulai menjalari percakapan kita<br>Pertanyaan kamu sedang apa<br>Terkesan hanya sebuah formalitas saja<br><br>Coba tanyakan lagi pada hatimu<br>Apakah sebaiknya kita putus atau terus<br>Kita sedang mempertahankan hubungan<br>Atau hanya sekedar menunda perpisahan, wo-oo<br><br>Bila kamu tanya, aku maunya apa<br>Aku mau kita t'rus bersama<br><br>Coba tanyakan lagi pada hatimu<br><br>Kita sedang mempertahankan hubungan<br>Atau hanya sekedar, oh-wo-wo<br>Hanya sekedar menunda perpisahan<br>"
+		},
+		{
+			"id": 4,
+			"name_category": "ARVIAN",
+			"title": "SAKIT GIGI",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/6RVSAKITGIGIDW.mp3",
+			"duration": "316",
+			"lyrics": "Putus lagi cintaku<br>Putus lagi jalinan kasih<br>Sayangku dengannya<br>Cuma karena rupiah<br>Lalu engkau berpaling muka<br>Tak mau menatap lagi<br><br>Kecewa, kecewa hatiku<br>Terluka karena cinta<br><br>Kalau terbakar api<br>Kalau tertusuk duri mungkin<br>Masih dapat kutahan<br>Tapi ini sakit, lebih sakit<br>Kecewa karena cinta<br><br>Jangankan diriku<br>Semut pun 'kan marah<br>Bila terlalu sakit begini<br><br>Daripada sakit hati<br>Lebih baik sakit gigi ini<br>Biar tak mengapa<br>Rela, rela, rela, aku relakan<br>Rela, rela, rela, aku rela<br><br>Kalau terbakar apiKalau tertusuk duri mungkin<br>Masih dapat kutahan<br>Tapi ini sakit lebih sakit<br>Kecewa karena cinta<br><br>Jangankan diriku<br>Semut pun 'kan marah<br>Bila terlalu sakit begini<br><br>Daripada sakit hati<br>Lebih baik sakit gigi ini<br>Biar tak mengapa<br>Rela, rela, rela, aku relakan<br>Rela, rela, rela, aku rela<br><br>Kalau terbakar api<br>Kalau tertusuk duri mungkin<br>Masih dapat kutahan<br>Tapi ini sakit lebih sakit<br><br>Kecewa karena cinta<br>Kecewa karena cinta<br>Kecewa<br>Karena cinta<br>"
+		},
+		{
+			"id": 5,
+			"name_category": "ARVIAN",
+			"title": "MEMANDANGMU",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/5RVMEMANDANGMUDW.mp3",
+			"duration": "236",
+			"lyrics": "Memandangmu walau selalu<br>Tak akan pernah beri jemu di hatiku<br>Menyapamu walau selalu<br>Masih terasa merdu bagai di awal jumpa<br><br>Mencari apa yang aku cari<br>Merangkai rindunya hatiku<br><br>Bulan bawa bintang menari, iringi langkahku<br>Malam hadir bawa diriku, berjumpa denganmu<br>Dua hati satu tujuan, melangkah bersama<br>Cinta hadir bawa diriku, menyentuh indahnya<br><br>Memelukmu walau selalu<br>Tak akan pernah sanggup aku melepasnya<br>Membelaimu walau selalu<br>Masih terasa harum lembut di hatiku<br><br>Mencari apa yang aku cari<br>Merangkai rindunya hatiku<br><br>Bulan bawa bintang menari, iringi langkahku<br>Malam hadir bawa diriku, berjumpa denganmu<br>Dua hati satu tujuan, melangkah bersama<br>Cinta hadir bawa diriku, menyentuh indahnya<br><br>Bulan bawa bintang menari, iringi langkahku<br>Malam hadir bawa diriku, berjumpa denganmu<br>Dua hati satu tujuan, melangkah bersama<br>Cinta hadir bawa diriku, menyentuh indahnya<br>"
+		},
+		{
+			"id": 6,
+			"name_category": "ARVIAN",
+			"title": "BUIH JADI PERMADANI",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/4RVBUIHJADIPERMADANIDW.mp3",
+			"duration": "228",
+			"lyrics": "Dinginnya angin malam ini<br>Menyapa tubuhku<br>Namun tidak dapat di inginkan panasnya<br>Hatiku ini<br><br>Terasa terhempasnya kelakian ku ini<br>Dengan sikapmu<br>Apakah karena aku<br>Insan kekurangan<br>Mudahnya kau mainkan<br><br>Oh mungkinkah diri ini<br>Dapat merubah buih<br>Yang memutih<br>Menjadi permadani<br>Seperti pinta<br>Yang kau ucap<br>Dalam janji cinta<br><br>Juga mustahil bagiku<br>Menggapai bintang dilangit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku<br>Tiada mampu<br><br>Salah aku juga<br>Karena jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku<br>Cerminkan diriku<br>Sebelum tirai hati<br>Aku buka<br>Untuk mencintaimu<br>"
+		},
+		{
+			"id": 7,
+			"name_category": "ARVIAN",
+			"title": "AJARKAN AKU AKUSTIK",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/3RVAJARKANAKUAKUSTIK.mp3",
+			"duration": "269",
+			"lyrics": "Semua yang ku mau, hanya sedikit waktumu, untukku<br>Hanya satu pesan singkat, Sedang apa dirimu?<br><br>Awal pertemuan kau sangat peka padaku, dan itu dulu<br>Rasa yang terlanjur dalam, kau buatku semakin bodoh<br><br>Oh mengapa harus kulihat kau dengan dirinya<br>Terluka tapi tak berdarah<br><br>Ajarkan aku cara tuk melupakanmu<br>Bila membencimu tak pernah cukup 'tuk hilangkan kamu<br>Ajarkan aku, sebelum merusak kedalam-dalamnya<br>Sebelum aku trauma mencintai sosok yang baru lagi<br><br>Awal pertemuan kau sangat peka padaku, dan itu dulu<br>Rasa yang terlanjur dalam, kau buatku semakin bodoh<br><br>Oh mengapa harus kulihat kau dengan dirinya<br>Terluka tapi tak berdarah<br><br>Ajarkan aku cara tuk melupakanmu<br>Bila membencimu tak pernah cukup 'tuk hilangkan kamu<br>Ajarkan aku, sebelum merusak kedalam-dalamnya<br>Sebelum aku trauma mencintai sosok yang baru lagi<br><br>Tak tahu bagaimanakah caranya<br>Agar diriku bisa lupakanmu<br><br>Ajarkan aku cara tuk melupakanmu<br>Bila membencimu tak pernah cukup 'tuk hilangkan kamu<br>Ajarkan aku, sebelum merusak kedalam-dalamnya<br>Sebelum aku trauma<br>Mencintai (Mencintai)<br>Mencintai<br>Mencintai sosok yang baru lagi<br>"
+		},
+		{
+			"id": 8,
+			"name_category": "ARVIAN",
+			"title": "AJARKAN AKU",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/2RVAJARKANAKUDW.mp3",
+			"duration": "262",
+			"lyrics": "Semua yang ku mau, hanya sedikit waktumu, untukku<br>Hanya satu pesan singkat, Sedang apa dirimu?<br><br>Awal pertemuan kau sangat peka padaku, dan itu dulu<br>Rasa yang terlanjur dalam, kau buatku semakin bodoh<br><br>Oh mengapa harus kulihat kau dengan dirinya<br>Terluka tapi tak berdarah<br><br>Ajarkan aku cara tuk melupakanmu<br>Bila membencimu tak pernah cukup 'tuk hilangkan kamu<br>Ajarkan aku, sebelum merusak kedalam-dalamnya<br>Sebelum aku trauma mencintai sosok yang baru lagi<br><br>Awal pertemuan kau sangat peka padaku, dan itu dulu<br>Rasa yang terlanjur dalam, kau buatku semakin bodoh<br><br>Oh mengapa harus kulihat kau dengan dirinya<br>Terluka tapi tak berdarah<br><br>Ajarkan aku cara tuk melupakanmu<br>Bila membencimu tak pernah cukup 'tuk hilangkan kamu<br>Ajarkan aku, sebelum merusak kedalam-dalamnya<br>Sebelum aku trauma mencintai sosok yang baru lagi<br><br>Tak tahu bagaimanakah caranya<br>Agar diriku bisa lupakanmu<br><br>Ajarkan aku cara tuk melupakanmu<br>Bila membencimu tak pernah cukup 'tuk hilangkan kamu<br>Ajarkan aku, sebelum merusak kedalam-dalamnya<br>Sebelum aku trauma<br>Mencintai (Mencintai)<br>Mencintai<br>Mencintai sosok yang baru lagi<br>"
+		},
+		{
+			"id": 9,
+			"name_category": "ARVIAN",
+			"title": "MELEPAS LAJANG",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/1RVMELEPASLAJANGDW.mp3",
+			"duration": "263",
+			"lyrics": "mungkin sudah saatnya<br>kan ku akhiri masa kesendirian<br>mempersiapkan hati tuk melamarmu<br>terimalah cintaku<br><br>mungkin saat ini<br>ku akan melepas masa lajangku<br>kan ku persunting dirimu<br><br>jadilah pasanganku<br>dan hidup menua bersamaku<br>terimalah cintaku<br><br>mungkin sudah saatnya<br>kan ku akhiri masa kesendirian<br>mempersiapkan hati tuk melamarmu<br>terimalah cintaku<br><br>mungkin saat ini<br>ku akan melepas masa lajangku<br>kan ku persunting dirimu<br><br>jadilah pasanganku<br>dan hidup menua bersamaku<br>terimalah cintaku<br><br>mungkin saat ini<br>kuakan melepas masa lajangku<br>kan ku persunting dirimu<br><br>jadilah pasanganku<br>dan hidup menua bersamaku<br><br>mungkin saat ini<br>ku akan melepas masa lajangku<br>kan ku persunting dirimu<br><br>jadilah pasanganku<br>dan hidup menua bersamaku<br>terimalah cintaku<br>"
+		},
+		{
+			"id": 10,
+			"name_category": "ARVIAN",
+			"title": "MASIH DISINI",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/10RVMASIHDISINIDW.mp3",
+			"duration": "179",
+			"lyrics": "Ku pergi hanya sebentar saja<br>Bukannya untuk menjauhimu<br>Mencoba 'tuk cari bagaimana<br>Baiknya untuk berdua<br><br>Setelah kuputuskan kembali<br>'Tuk pulang mencarimu, kekasih<br>Tetapi kau bukan dirimu lagi<br>Kau telah jauh berubah<br><br>Apakah kau sudah temukan yang baru?<br><br>Tolong, jangan kau katakan kau suka<br>Jangan, jangan kau pikirkan egomu saja<br>Aku masih di sini<br>Dia tak tahu betapa sulitnya aku<br>Selama ini cintai kamu<br>Aku masih denganmu<br><br>Cobalah kau ingat kembali<br>Masa-masa indah denganku<br>Dan jujur, apakah semua<br>Kini sudah terlambat? Oh-wo-oh<br><br>Ataukah kau sudah temukan yang baru?<br><br>Tolong, jangan kau katakan kau suka (angkat tangan di atas, bro)<br>Jangan, jangan kau pikirkan egomu saja<br>Aku masih di sini (angkat tangan di atas, bro)<br>Dia tak tahu betapa sulitnya aku<br>Selama ini cintai kamu<br>Aku masih denganmu<br><br>Tolong, jangan kau katakan kau suka<br>Jangan, jangan kau pikirkan egomu saja<br>Aku masih di sini (angkat tangan di atas, bro)<br>Dia tak tahu betapa sulitnya aku<br>Selama ini cintai kamu<br>Aku masih denganmu<br>"
+		},
+		{
+			"id": 11,
+			"name_category": "ARVIAN",
+			"title": "GIMANA LE",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/11RVGIMANALEDW.mp3",
+			"duration": "155",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "ARVIAN",
+			"title": "KETERLALUAN",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/12RVKETERLALUANDW.mp3",
+			"duration": "190",
+			"lyrics": "Kamu kok seperti hantu?<br>Terus menghantui aku<br>Kamu bikin pusing kepalaku<br>Lama-lama kau terus sakiti aku<br><br>Kamu gak bergelimangan harta<br>Kamu bukan putri raja<br>Dan juga bukan Cinderella<br>Tapi mengapa kau buat aku gila?<br><br>Kamu keterlaluan<br>Kamu punya simpanan<br>Maka maafin aku<br>I'm sorry say,Good bye<br>Kamu keterlaluan<br>Kamu duain aku<br>Maka maafin aku<br>Ku harus tinggalin kamu<br><br>Kamu kok seperti hantu?<br>Terus menghantui aku<br>Kamu bikin pusing kepalaku<br>Lagi-lagi kau terus sakiti aku<br><br>Kamu gak bergelimangan harta<br>Kamu bukan putri raja<br>Dan juga bukan Cinderella<br>Tapi mengapa kau buat aku gila<br><br>Kamu keterlaluan<br>Kamu punya simpanan<br>Maka maafin aku<br>I'm sorry say,Good bye<br>Kamu keterlaluan<br>Kamu duain aku<br>Maka maafin aku<br>Ku harus tinggalin kamu<br><br>Kamu keterlaluan (keterlaluan)<br>Kamu punya simpanan (punya simpanan)<br>Maka maafin aku<br>I'm sorry say,Good bye<br>Kamu keterlaluan (keterlaluan)<br>Kamu duain aku (punya simpanan)<br>Maka maafin aku<br>Ku harus tinggalin kamu<br>"
+		},
+		{
+			"id": 13,
+			"name_category": "ARVIAN",
+			"title": "PURA PURA LUPA",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/13RVPURAPURALUPADW.mp3",
+			"duration": "211",
+			"lyrics": "Pernah aku jatuh hati<br>Padamu sepenuh hati<br>Hidup pun akan kuberi<br>Apapun kan ku lakui<br><br>Tapi tak pernah ku bermimpi<br>Kau tinggalkan aku pergi<br>Tanpa tahu rasa ini<br>Ingin rasa ku membenci<br><br>Tiba tiba kamu datang<br>Saat kau telah dengan dia<br>Semakin hancur hatiku<br><br>Jangan datang lagi cinta<br>Bagaimana aku bisa lupa<br>Padahal kau tahu keadaannya<br>Kau bukanlah untukku<br><br>Jangan lagi rindu cinta<br>Ku tak mau ada yang terluka<br>Bahagiakan dia aku tak apa<br>Biar aku yang pura pura lupa<br><br>Oh oh<br><br>Tiba tiba kamu datang<br>Saat kau telah dengan dia<br>Semakin hancur hatiku<br><br>Jangan datang lagi cinta<br>Bagaimana aku bisa lupa<br>Padahal kau tahu keadaannya<br>Kau bukanlah untukku<br><br>Jangan lagi rindu cinta<br>Ku tak mau ada yang terluka<br>Bahagiakan dia aku tak apa<br>Biar aku yang pura pura lupa<br>Jangan datang lagi cinta<br>Bagaimana aku bisa lupa<br>Padahal kau tahu keadaannya<br>Kau bukanlah untukku (oh)<br><br>Jangan lagi rindu cinta<br>Ku tak mau ada yang terluka<br>Bahagiakan dia aku tak apa (bahagiakan dia)<br>Biar aku yang pura pura lupa<br>Oh<br><br>Bahagiakan dia aku tak apa<br>Biar aku yang pura pura lupa<br>"
+		},
+		{
+			"id": 14,
+			"name_category": "ARVIAN",
+			"title": "BETA JANJI BETA JAGA",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/14RVBETAJANJIBETAJAGADW.mp3",
+			"duration": "218",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "ARVIAN",
+			"title": "DAN",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/15RVDANDW.mp3",
+			"duration": "231",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "ARVIAN",
+			"title": "KANGEN",
+			"image": "file:///android_asset/image/AR.jpg",
+			"link_mp3": "mp3/16RVKANGENDW.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "POPULER",
+			"title": "LOVE NWANITI",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/RVLOVENWANITIDW.mp3",
+			"duration": "173",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "POPULER",
+			"title": "ADA UNTUKMU",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVADAUNTUKMUDW.mp3",
+			"duration": "233",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "POPULER",
+			"title": "BILA NANTI",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVBILANANTIDW.mp3",
+			"duration": "295",
+			"lyrics": "Bila Memang Engkau Tak Lagi Cinta<br>Lebih Baik Engkau Katakan Saja<br>Ku Relakan Bila Kau Ingin Pergi<br>Meninggalkan Luka Didalam Hati<br><br>Cukup Sudah Kau Lukai Hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah kau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Namun hati takkan kembali<br>Seperti dulu lagi<br><br>Cukup sudah kau lukai hatiku<br>Yang selalu tulus mencintaimu<br>Ku ikhlaskan semua yang terjadi<br>Ku akhiri cukup sampai disini<br><br>Pergilah engkau bersamanya<br>Anggaplah diriku yang tak pernah ada<br>Aku mohon jangan lukai hatinya<br>Cukup aku saja<br><br>Bila nanti engkau tak bahagia<br>Kembalilah pintu selalu terbuka<br>Namun hati tak kan kembali<br>Seperti dulu lagi<br>"
+		},
+		{
+			"id": 20,
+			"name_category": "POPULER",
+			"title": "BUIH JADI PERMADANI",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVBUIHJADIPERMADANIDW.mp3",
+			"duration": "282",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "POPULER",
+			"title": "DULU",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVDULUDW.mp3",
+			"duration": "210",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "POPULER",
+			"title": "DURI DURI",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVDURIDURIDW.mp3",
+			"duration": "247",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "POPULER",
+			"title": "EMAS HANTARAN",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVEMASHANTARANDW.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "POPULER",
+			"title": "JANJI KITA",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVJANJIKITADW.mp3",
+			"duration": "277",
+			"lyrics": "Di dalam hati ini<br>Hanya ada satu cinta<br>Dan itu cuma ada di kamu<br><br>Kamu cinta Pertama di hidupku<br>Dan aku berjanji<br>Kau jadi cinta terakhirku<br><br>Aku pun merasakan sama<br>Saat kau hadir di hidupmu<br>Ku merasakan cinta yang tulus<br>Dari dirimu<br><br>Chorus:<br><br>Janji kita berdua semoga selamanya<br>Kau dan aku jadi satu di dalam ikatan cinta kita<br>Tanpamu aku tak kan bisa merasakan cinta sempurna<br>Kau lengkapi ku<br>Kamulah cinta yang di kirim Tuhan untukku<br><br>(*)<br><br>Aku pun merasakan sama<br>Saat kau hadir di hidupmu<br>Ku merasakan cinta yang tulus<br>Dari dirimu<br><br>Janji kita berdua semoga selamanya<br>Kau dan aku jadi satu di dalam ikatan cinta kita<br>Tanpamu aku tak kan bisa merasakan cinta sempurna<br>Kau lengkapi ku<br>Kamulah cinta yang di kirim Tuhan untukku<br>  <br>Bridge:<br><br>Selamanya Kau dan Aku kita di dalam Ikatan<br><br>Janji kita berdua semoga selamanya<br>Kau dan aku jadi satu di dalam ikatan cinta kita<br>Tanpamu aku tak kan bisa merasakan cinta sempurna<br>Kau lengkapiku<br>Kamulah cinta yang di kirim Tuhan untukku<br>"
+		},
+		{
+			"id": 25,
+			"name_category": "POPULER",
+			"title": "AKU BUKAN JODOHNYA",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVKUBUKANJODOHNYADW.mp3",
+			"duration": "227",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "POPULER",
+			"title": "MENJADI DIA",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVMENJADIDIADW.mp3",
+			"duration": "214",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "POPULER",
+			"title": "PESAN TERAKHIR",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVPESANTERAKHIRDW.mp3",
+			"duration": "237",
+			"lyrics": "T'lah kucoba t'rus bertahan<br>Tentang cinta yang kurasa<br>Ku mencinta, kau tak cinta<br>Tak sanggup ku terus bertahan<br><br>Sadar ku tak berhak untuk terus memaksamu<br>Memaksamu mencintaiku sepenuh hati<br>Aku 'kan berusaha untuk melupakanmu<br>Tapi terimalah permintaan terakhirku<br><br>Genggam tanganku, sayang<br>Dekat denganku, peluk diriku<br>Berdiri tegak di depan aku<br>Cium keningku 'tuk yang terakhir<br><br>Ku 'kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu, ho-oh<br><br>Ku tak membencimu<br>Kuharap kau pun begitu, ha-ah (kuharap begitu), yeah, yeay<br>Tak ingin kau jauh<br>Tapi takdir menginginkan kita 'tuk berpisah<br><br>Genggam tanganku, sayang<br>Dekat denganku, peluk diriku<br>Berdiri tegak di depan aku<br>Cium keningku 'tuk yang terakhir<br><br>Ku 'kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br><br>Ho-oh<br>(Dekat denganku, peluk diriku) Oh-oh<br>(Berdiri tegak di depan aku)<br>(Cium keningku 'tuk) yang terakhir<br><br>Ku 'kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br><br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br>"
+		},
+		{
+			"id": 28,
+			"name_category": "POPULER",
+			"title": "TERLALU BERHARAP",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVROSERLALUBERHARAPDW.mp3",
+			"duration": "237",
+			"lyrics": "Aku dan kamu<br>Sudah sejak lama bersama<br>Tak sedikit cerita yang telah kita lalui<br><br>Sampai kapan aku harus terus bersabar<br>Menunggu kepastian tuk hubungan ini<br><br>Tak tahu harus bagaimana<br>Ingin denganmu tapi seperti tak ada tujuan<br>Haruskan aku berhenti berharap<br>Karna ku tak bisa<br>Terlalu lama menunggu<br><br>Mungkin saja telah kulewati ratusan mingguku<br>Besar harapku tuk bisa hidup selamanya denganmu<br><br>Tak tau harus bagaimana<br>Ingin denganmu tapi sperti tak ada tujuan<br>Haruskan aku berhenti berharap<br>Karna ku tak bisa<br>Terlalu lama menunggu<br><br>Mengapa sampai detik ini<br>Semuanya masih sama seperti kemarin<br>Ataukah memang harus ku sadari<br>Hanya aku saja yang terlalu berharap<br>"
+		},
+		{
+			"id": 29,
+			"name_category": "POPULER",
+			"title": "SIA SIA BERJUANG",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVSIASIABERJAUNGDW.mp3",
+			"duration": "244",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "POPULER",
+			"title": "SISA RASA",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVSISARASADW.mp3",
+			"duration": "242",
+			"lyrics": "Melihatmu bahagia<br>Satu hal yang terindah<br>Anugrah cinta yang pernah kupunya<br><br>Kau buat ku percaya<br>Ketulusan cinta<br>Seakan kisah sempurna kan tiba<br><br>Masih jelas teringat<br>Pelukanmu yang hangat<br>Seakan semua tak mungkin menghilang<br><br>Kini hanya kenangan<br>Yang telah kau tinggalkan<br>Tak tersisa lagi waktu bersama<br><br>Mengapa masih ada<br>Sisa rasa di dada<br>Di saat kau pergi begitu saja<br>Mampukah ku bertahan<br>Tanpa hadirmu sayang<br>Tuhan sampaikan rindu untuknya<br><br>Masih tersimpan, setiap kenangan<br>Semua cinta yang kau beri<br>Kau takkan terganti<br>"
+		},
+		{
+			"id": 31,
+			"name_category": "POPULER",
+			"title": "YANG TERDALAM",
+			"image": "file:///android_asset/image/PR.jpg",
+			"link_mp3": "mp3/ZRVYANGTERDALADW.mp3",
+			"duration": "194",
+			"lyrics": "Kulepas semua yang kuinginkan<br>Tak akan kuulangi<br>Maafkan jika kau kusayangi<br>Dan bila kumenanti<br><br>Pernahkah engkau coba mengerti<br>Lihatlah aku di sini<br>Mungkinkah jika aku bermimpi<br>Salahkah tuk menanti<br><br>Takkan lelah aku menanti<br>Takkan hilang cintaku ini<br>Hingga saat kau tak kembali<br>Kan kukenang di hati saja<br><br>Kau telah tinggalkan hati yang terdalam<br>Hingga tiada cinta yang tersisa di jiwa"
+		}
+
+	]
+}
