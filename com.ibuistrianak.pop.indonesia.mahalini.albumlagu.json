@@ -1,12 +1,12 @@
 {
   "Ads": [{
     "select_main_ads": "ADMOB",
-    "select_backup_ads": "",
-    "main_ads_banner": "",
-    "main_ads_intertitial": "",
+    "select_backup_ads": "STARTAPP",
+    "main_ads_banner": "ca-app-pub-2115024050829708/5165010543",
+    "main_ads_intertitial": "ca-app-pub-2115024050829708/2786738146",
     "backup_ads_banner": "qwert12345",
     "backup_ads_intertitial": "qwert12345",
-    "interval_intertitial": 4,
+    "interval_intertitial": 3,
     "initialize_sdk": "null",
     "initialize_sdk_backup_ads": "null",
     "high_paying_keyword_1": "",
@@ -89,7 +89,7 @@
       "image": "file:///android_asset/image/ma.jpg",
       "link_mp3": "mp3/3MAMELAWANRESTULI.mp3",
       "duration": "206",
-      "lyrics": "Indah semua cerita<br>Yang t’lah terlewati<br>Dalam satu cinta<br>Kita yang pernah bermimpi<br>Jalani semua<br>Hanya ada kita<br><br>Namun ternyata<br>Pada akhirnya<br>Tak mungkin bisa kupaksa<br>Restunya tak berpihak<br>Pada kita<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas dalam benakku<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita<br>S’lalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br><br>Namun ternyata<br>Pada akhirnya<br>Tak mungkin bisa kupaksa<br>Restunya tak berpihak<br>Pada kita<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas (tak terlintas) dalam benakku (dalam benakku)<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita (cinta kita)<br>Slalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br><br>Ooooo<br>Mengapa kita<br>Terlanjur mencinta<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas (tak terlintas) dalam benakku (dalam benakku)<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita<br>Slalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br>"
+      "lyrics": "Indah semua cerita<br>Yang tâ€™lah terlewati<br>Dalam satu cinta<br>Kita yang pernah bermimpi<br>Jalani semua<br>Hanya ada kita<br><br>Namun ternyata<br>Pada akhirnya<br>Tak mungkin bisa kupaksa<br>Restunya tak berpihak<br>Pada kita<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas dalam benakku<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita<br>Sâ€™lalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br><br>Namun ternyata<br>Pada akhirnya<br>Tak mungkin bisa kupaksa<br>Restunya tak berpihak<br>Pada kita<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas (tak terlintas) dalam benakku (dalam benakku)<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita (cinta kita)<br>Slalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br><br>Ooooo<br>Mengapa kita<br>Terlanjur mencinta<br><br>Mungkinkah aku meminta<br>Kisah kita selamanya<br>Tak terlintas (tak terlintas) dalam benakku (dalam benakku)<br>Bila hariku tanpamu<br>Sgala cara tlah ku coba<br>Pertahankan cinta kita<br>Slalu kutitipkan dalam doaku<br>Tapi ku tak mampu<br>Melawan restu<br>"
     },
     {
       "id": 8,
